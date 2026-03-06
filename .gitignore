@@ -28,9 +28,8 @@ test-results/
 # Private data sources (SQL dumps, scrape archive)
 private/
 
-# Generated legacy images (regenerate via npm run data:images)
-public/legacy-images/
-apps/demo-a/public/legacy-images/
+# Legacy images are committed so the demos work on any clone
+# Regenerate via: npm run data:images
 
 # Note: .cursor/mcp.json contains placeholder values
 # If you add real secrets, consider adding it to .gitignore:
