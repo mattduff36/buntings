@@ -1,4 +1,7 @@
-import { Card, Column, Row, Text, Heading } from '@once-ui-system/core';
+'use client';
+
+import { Column, Row, Text, Heading } from '@once-ui-system/core';
+import { motion } from 'framer-motion';
 import Link from 'next/link';
 
 interface ProductCardProps {
@@ -24,31 +27,55 @@ export function ProductCard({ product, basePath = '/demo1' }: ProductCardProps) 
 
   return (
     <Link href={`${basePath}/product/${product.slug}-${product.id}`} style={{ textDecoration: 'none', display: 'block' }}>
-      <Card padding="m" radius="l" border="neutral-alpha-weak" style={{ height: '100%', cursor: 'pointer', transition: 'transform 0.2s' }}>
-        <Column gap="m" fill>
-          <div style={{
-            width: '100%', aspectRatio: '1', overflow: 'hidden',
-            borderRadius: 'var(--radius-m)', background: 'var(--neutral-alpha-weak)',
-          }}>
-            <img src={imgSrc} alt={product.name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} loading="lazy" />
-          </div>
+      <motion.div
+        whileHover={{ y: -4, boxShadow: '0 8px 30px rgba(0,0,0,0.1)' }}
+        transition={{ type: 'spring', stiffness: 400, damping: 25 }}
+        style={{
+          height: '100%',
+          borderRadius: 'var(--radius-l, 12px)',
+          border: '1px solid var(--neutral-alpha-weak, rgba(0,0,0,0.08))',
+          background: 'var(--surface-background, var(--background))',
+          overflow: 'hidden',
+          cursor: 'pointer',
+        }}
+      >
+        <div style={{
+          width: '100%',
+          aspectRatio: '1',
+          overflow: 'hidden',
+          background: 'var(--neutral-alpha-weak)',
+          position: 'relative',
+        }}>
+          <motion.img
+            src={imgSrc}
+            alt={product.name}
+            loading="lazy"
+            whileHover={{ scale: 1.05 }}
+            transition={{ duration: 0.4 }}
+            style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+          />
+        </div>
+        <div style={{ padding: 'var(--spacing-m, 12px)' }}>
           <Column gap="xs">
             {product.manufacturer && (
-              <Text variant="label-default-xs" onBackground="neutral-weak">{product.manufacturer}</Text>
+              <Text variant="label-default-xs" onBackground="brand-strong" style={{ textTransform: 'uppercase', letterSpacing: '0.04em' }}>
+                {product.manufacturer}
+              </Text>
             )}
             <Heading as="h3" variant="heading-strong-xs" style={{
               display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden',
             }}>
               {product.name}
             </Heading>
-            <Row horizontal="between" vertical="center">
-              {product.price > 0 && (
-                <Text variant="label-strong-s" onBackground="brand-strong">{formatPrice(product.price)} + VAT</Text>
-              )}
-            </Row>
+            {product.price > 0 && (
+              <Row vertical="center" gap="xs">
+                <Text variant="label-strong-s" onBackground="brand-strong">{formatPrice(product.price)}</Text>
+                <Text variant="body-default-xs" onBackground="neutral-weak">+ VAT</Text>
+              </Row>
+            )}
           </Column>
-        </Column>
-      </Card>
+        </div>
+      </motion.div>
     </Link>
   );
 }

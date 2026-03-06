@@ -1,4 +1,5 @@
-import { Column, Heading, Text, Grid, Card } from '@once-ui-system/core';
+import { Column, Heading, Text, Grid, Card, Row } from '@once-ui-system/core';
+import { FolderOpen, ChevronRight } from 'lucide-react';
 import Link from 'next/link';
 
 import categoriesTree from '@data/categories.tree.json';
@@ -8,34 +9,47 @@ function slugify(text: string) {
 }
 
 function CategoryItem({ cat, depth = 0, basePath }: { cat: any; depth?: number; basePath: string }) {
+  const name = cat.name?.trim() || `Category ${cat.id}`;
+  const isTopLevel = depth === 0;
+
   return (
     <Column gap="s">
-      <Link href={`${basePath}/category/${slugify(cat.name)}-${cat.id}`} style={{ textDecoration: 'none' }}>
-        <Card padding="m" radius="l" border="neutral-alpha-weak" style={{ cursor: 'pointer' }}>
-          <Column gap="xs">
-            <Heading as={depth === 0 ? 'h2' : 'h3'} variant={depth === 0 ? 'heading-strong-m' : 'heading-strong-s'}>
-              {cat.name}
-            </Heading>
-            {cat.descriptionText && (
-              <Text variant="body-default-xs" onBackground="neutral-weak" style={{
-                display: '-webkit-box',
-                WebkitLineClamp: 2,
-                WebkitBoxOrient: 'vertical',
-                overflow: 'hidden',
-              }}>
-                {cat.descriptionText}
-              </Text>
-            )}
-            {cat.children && cat.children.length > 0 && (
-              <Text variant="label-default-xs" onBackground="brand-strong">
-                {cat.children.length} subcategories
-              </Text>
-            )}
-          </Column>
+      <Link href={`${basePath}/category/${slugify(name)}-${cat.id}`} style={{ textDecoration: 'none' }}>
+        <Card padding={isTopLevel ? 'l' : 'm'} radius="l" border="neutral-alpha-weak" style={{
+          cursor: 'pointer',
+          transition: 'transform 0.2s ease, box-shadow 0.2s ease',
+          borderLeft: isTopLevel ? '3px solid var(--brand-strong)' : undefined,
+        }}>
+          <Row gap="m" vertical="center" horizontal="between">
+            <Column gap="xs" style={{ flex: 1 }}>
+              <Row gap="s" vertical="center">
+                {isTopLevel && <FolderOpen size={18} style={{ color: 'var(--brand-strong)', flexShrink: 0 }} />}
+                <Heading as={isTopLevel ? 'h2' : 'h3'} variant={isTopLevel ? 'heading-strong-m' : 'heading-strong-s'}>
+                  {name}
+                </Heading>
+              </Row>
+              {cat.descriptionText && (
+                <Text variant="body-default-xs" onBackground="neutral-weak" style={{
+                  display: '-webkit-box',
+                  WebkitLineClamp: 2,
+                  WebkitBoxOrient: 'vertical',
+                  overflow: 'hidden',
+                }}>
+                  {cat.descriptionText}
+                </Text>
+              )}
+              {cat.children && cat.children.length > 0 && (
+                <Text variant="label-default-xs" onBackground="brand-strong">
+                  {cat.children.length} subcategories
+                </Text>
+              )}
+            </Column>
+            <ChevronRight size={16} style={{ opacity: 0.4, flexShrink: 0 }} />
+          </Row>
         </Card>
       </Link>
       {cat.children && cat.children.length > 0 && (
-        <Grid gap="s" style={{ paddingLeft: 16, gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))' }}>
+        <Grid gap="s" style={{ paddingLeft: isTopLevel ? 20 : 16, gridTemplateColumns: 'repeat(auto-fill, minmax(220px, 1fr))' }}>
           {cat.children.map((child: any) => (
             <CategoryItem key={child.id} cat={child} depth={depth + 1} basePath={basePath} />
           ))}
@@ -47,11 +61,24 @@ function CategoryItem({ cat, depth = 0, basePath }: { cat: any; depth?: number; 
 
 export function CategoriesPage({ basePath }: { basePath: string }) {
   const tree = categoriesTree as any[];
+  const totalSubcategories = tree.reduce((sum: number, cat: any) => sum + (cat.children?.length || 0), 0);
 
   return (
     <Column gap="l">
       <Column gap="s">
-        <Heading as="h1" variant="display-strong-m">All Categories</Heading>
+        <Row gap="m" vertical="center">
+          <Heading as="h1" variant="display-strong-m">All Categories</Heading>
+          <div style={{
+            background: 'var(--brand-alpha-weak, rgba(0,128,0,0.08))',
+            color: 'var(--brand-strong)',
+            fontSize: 12,
+            fontWeight: 600,
+            padding: '3px 10px',
+            borderRadius: 12,
+          }}>
+            {tree.length} categories &middot; {totalSubcategories} subcategories
+          </div>
+        </Row>
         <Text variant="body-default-m" onBackground="neutral-weak">
           Browse our full range of agricultural equipment and supplies.
         </Text>

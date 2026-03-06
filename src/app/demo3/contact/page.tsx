@@ -1,5 +1,10 @@
 import { ContactPage } from '@/components/shared/ContactPage';
+import { PageWrapper } from '@/components/shared/PageWrapper';
 
 export default function Demo3Contact() {
-  return <ContactPage />;
+  return (
+    <PageWrapper>
+      <ContactPage />
+    </PageWrapper>
+  );
 }

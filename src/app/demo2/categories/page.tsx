@@ -1,5 +1,10 @@
 import { CategoriesPage } from '@/components/shared/CategoriesPage';
+import { PageWrapper } from '@/components/shared/PageWrapper';
 
 export default function Demo2Categories() {
-  return <CategoriesPage basePath="/demo2" />;
+  return (
+    <PageWrapper>
+      <CategoriesPage basePath="/demo2" />
+    </PageWrapper>
+  );
 }

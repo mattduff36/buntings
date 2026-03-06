@@ -7,7 +7,7 @@ import { Footer } from '@/components/shared/Footer';
 import { themes } from '@/resources/once-ui.config';
 
 export const metadata = {
-  title: 'Demo 2 — Bold Cards | Buntings Agri',
+  title: 'Demo 2 — Dark Machinery | Buntings Agri',
 };
 
 export default function Demo2Layout({ children }: { children: React.ReactNode }) {
@@ -17,7 +17,7 @@ export default function Demo2Layout({ children }: { children: React.ReactNode })
         <ThemeSetter theme={themes.demo2} />
         <Column minHeight="100vh" background="page">
           <Header />
-          <Column as="main" padding="l" maxWidth="xl" style={{ margin: '0 auto', width: '100%' }} flex={1}>
+          <Column as="main" flex={1}>
             {children}
           </Column>
           <Footer />

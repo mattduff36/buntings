@@ -1,10 +1,12 @@
-import { Column, Row, Heading, Text, Button, Card, Badge, Grid } from '@once-ui-system/core';
+import { Column, Row, Heading, Text, Button, Card, Badge } from '@once-ui-system/core';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { Phone, Mail, ArrowLeft, Package, Tag } from 'lucide-react';
 
 import products from '@data/products.enriched.json';
 import categoriesRaw from '@data/categories.raw.json';
 import siteMeta from '@data/site.meta.json';
+import contentExtras from '@data/content.extras.json';
 
 function extractId(slug: string): number | null {
   const match = slug.match(/-(\d+)$/);
@@ -34,16 +36,25 @@ export function ProductPage({ slug, basePath }: { slug: string; basePath: string
 
   const imgSrc = product.mainImageUrl || '/legacy-images/placeholders/equipment.svg';
   const email = (siteMeta as any).email;
+  const footer = (contentExtras as any).footerInfo;
   const enquirySubject = encodeURIComponent(`Enquiry: ${product.name}`);
   const enquiryBody = encodeURIComponent(`Hi,\n\nI'm interested in the ${product.name} (ID: ${product.id}).\n\nPlease could you provide more information?\n\nThank you.`);
 
   return (
     <Column gap="l">
       <Link href={`${basePath}/categories`} style={{ textDecoration: 'none' }}>
-        <Text variant="label-default-xs" onBackground="neutral-weak">&larr; Back to Categories</Text>
+        <Row gap="xs" vertical="center">
+          <ArrowLeft size={14} />
+          <Text variant="label-default-xs" onBackground="neutral-weak">Back to Categories</Text>
+        </Row>
       </Link>
 
-      <Grid gap="l" style={{ gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))' }}>
+      <div style={{
+        display: 'grid',
+        gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
+        gap: 'var(--spacing-l, 1.5rem)',
+      }}>
+        {/* Image gallery */}
         <Column gap="m">
           <div style={{
             width: '100%',
@@ -51,40 +62,85 @@ export function ProductPage({ slug, basePath }: { slug: string; basePath: string
             overflow: 'hidden',
             borderRadius: 'var(--radius-l)',
             background: 'var(--neutral-alpha-weak)',
+            position: 'relative',
           }}>
-            <img src={imgSrc} alt={product.name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+            <img
+              src={imgSrc}
+              alt={product.name}
+              style={{
+                width: '100%',
+                height: '100%',
+                objectFit: 'cover',
+                transition: 'transform 0.3s ease',
+              }}
+            />
           </div>
           {product.imageUrls && product.imageUrls.length > 0 && (
-            <Row gap="s" wrap>
+            <div style={{
+              display: 'grid',
+              gridTemplateColumns: 'repeat(auto-fill, minmax(72px, 1fr))',
+              gap: 8,
+            }}>
               {product.imageUrls.map((url: string, i: number) => (
                 <div key={i} style={{
-                  width: 80, height: 80, overflow: 'hidden',
-                  borderRadius: 'var(--radius-m)', background: 'var(--neutral-alpha-weak)',
+                  aspectRatio: '1',
+                  overflow: 'hidden',
+                  borderRadius: 'var(--radius-m)',
+                  background: 'var(--neutral-alpha-weak)',
+                  border: '2px solid transparent',
+                  cursor: 'pointer',
+                  transition: 'border-color 0.2s',
                 }}>
                   <img src={url} alt={`${product.name} ${i + 1}`} style={{ width: '100%', height: '100%', objectFit: 'cover' }} loading="lazy" />
                 </div>
               ))}
-            </Row>
+            </div>
           )}
         </Column>
 
+        {/* Product info */}
         <Column gap="m">
           <Column gap="xs">
             {product.manufacturer && (
-              <Text variant="label-default-s" onBackground="neutral-weak">{product.manufacturer}</Text>
+              <Text variant="label-default-s" onBackground="brand-strong" style={{ textTransform: 'uppercase', letterSpacing: '0.05em' }}>
+                {product.manufacturer}
+              </Text>
             )}
             <Heading as="h1" variant="display-strong-m">{product.name}</Heading>
           </Column>
 
           {product.price > 0 && (
-            <Heading as="p" variant="heading-strong-l" onBackground="brand-strong">
-              {formatPrice(product.price)} + VAT
-            </Heading>
+            <div style={{
+              padding: '16px 20px',
+              borderRadius: 'var(--radius-l)',
+              background: 'var(--brand-alpha-weak, rgba(0,128,0,0.06))',
+              border: '1px solid var(--brand-alpha-medium, rgba(0,128,0,0.12))',
+            }}>
+              <Row gap="s" vertical="center">
+                <Tag size={18} style={{ color: 'var(--brand-strong)' }} />
+                <Heading as="p" variant="heading-strong-l" onBackground="brand-strong">
+                  {formatPrice(product.price)} + VAT
+                </Heading>
+              </Row>
+            </div>
           )}
 
           <Row gap="s" wrap>
-            <Badge title={product.stockStatus} />
-            {product.model && <Badge title={product.model} />}
+            <div style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: 6,
+              padding: '4px 12px',
+              borderRadius: 20,
+              background: 'var(--neutral-alpha-weak, rgba(0,0,0,0.04))',
+              fontSize: 13,
+            }}>
+              <Package size={14} />
+              <span>{product.stockStatus}</span>
+            </div>
+            {product.model && (
+              <Badge title={product.model} />
+            )}
           </Row>
 
           {categories.length > 0 && (
@@ -97,14 +153,32 @@ export function ProductPage({ slug, basePath }: { slug: string; basePath: string
             </Row>
           )}
 
-          <Row gap="m">
-            <a href={`mailto:${email}?subject=${enquirySubject}&body=${enquiryBody}`}>
-              <Button variant="primary" size="l" label="Send Enquiry" />
-            </a>
-            <a href={`tel:${(siteMeta as any).telephone?.split(' ')[0]}`}>
-              <Button variant="secondary" size="l" label="Call Us" />
-            </a>
-          </Row>
+          {/* CTAs */}
+          <div style={{
+            display: 'flex',
+            flexDirection: 'column',
+            gap: 10,
+            padding: '16px 0',
+          }}>
+            <Row gap="m">
+              <a href={`mailto:${email}?subject=${enquirySubject}&body=${enquiryBody}`} style={{ flex: 1 }}>
+                <Button variant="primary" size="l" label="Send Enquiry" style={{ width: '100%' }} />
+              </a>
+              <a href={`tel:${footer.phone?.replace(/\s/g, '')}`} style={{ flex: 1 }}>
+                <Button variant="secondary" size="l" label="Call Us" style={{ width: '100%' }} />
+              </a>
+            </Row>
+            <Row gap="m" style={{ fontSize: 13, color: 'var(--neutral-on-background-weak, #888)' }}>
+              <Row gap="xs" vertical="center">
+                <Phone size={13} />
+                <span>{footer.phone}</span>
+              </Row>
+              <Row gap="xs" vertical="center">
+                <Mail size={13} />
+                <span>{footer.email}</span>
+              </Row>
+            </Row>
+          </div>
 
           {product.descriptionHtml && (
             <Card padding="l" radius="l" border="neutral-alpha-weak">
@@ -112,13 +186,13 @@ export function ProductPage({ slug, basePath }: { slug: string; basePath: string
                 <Heading as="h2" variant="heading-strong-s">Description</Heading>
                 <div
                   dangerouslySetInnerHTML={{ __html: product.descriptionHtml }}
-                  style={{ fontSize: '0.9rem', lineHeight: 1.6, color: 'var(--neutral-on-background-weak)' }}
+                  style={{ fontSize: '0.9rem', lineHeight: 1.7, color: 'var(--neutral-on-background-weak)' }}
                 />
               </Column>
             </Card>
           )}
         </Column>
-      </Grid>
+      </div>
     </Column>
   );
 }

@@ -1,0 +1,182 @@
+{
+  "lastUpdated": "2025-07-01",
+  "vatInclusive": true,
+  "categories": [
+    {
+      "id": "timber",
+      "name": "Timber Price List",
+      "dateLabel": "July 2025",
+      "description": "All items are in stock. No minimum quantity.",
+      "subcategories": [
+        {
+          "name": "Stakes",
+          "items": [
+            { "name": "3-4\" 7' Peeled Stakes", "price": 6.25, "unit": "each" },
+            { "name": "100mm x 1.65m 1/2 Round Machine Stakes", "price": 3.90, "unit": "each" },
+            { "name": "60mm x 1.65m Machined Stakes", "price": 3.48, "unit": "each" },
+            { "name": "75mm x 1.65m Machined Stakes", "price": 4.20, "unit": "each" },
+            { "name": "75mm x 1.8m Machined Stakes", "price": 4.50, "unit": "each" },
+            { "name": "85mm x 1.65m Machined Stakes", "price": 5.45, "unit": "each" },
+            { "name": "85mm x 1.8m Machined Stakes", "price": 5.60, "unit": "each" },
+            { "name": "106mm x 1.8m UC4 Machined Stakes", "price": 6.72, "unit": "each" },
+            { "name": "100mm x 2.40m UC4 Machined Stakes", "price": 9.20, "unit": "each" }
+          ]
+        },
+        {
+          "name": "Half Round Rails & Jump Poles",
+          "items": [
+            { "name": "100mm x 3.6m 1/2 Round Rails", "price": 8.50, "unit": "each" },
+            { "name": "100mm x 3.6m Jump Poles", "price": 15.99, "unit": "each" }
+          ]
+        },
+        {
+          "name": "Machined Straining Posts",
+          "items": [
+            { "name": "125mm x 2.1m UC4 Straining Posts", "price": 19.00, "unit": "each" },
+            { "name": "150mm x 2.1m UC4 Straining Posts", "price": 26.50, "unit": "each" },
+            { "name": "150mm x 2.4m UC4 Straining Posts", "price": 28.50, "unit": "each" },
+            { "name": "175mm x 2.1m UC4 Straining Posts", "price": 31.50, "unit": "each" }
+          ]
+        },
+        {
+          "name": "Sawn Rails",
+          "items": [
+            { "name": "87mm x 38mm x 3.6m Rails", "price": 7.50, "unit": "each" },
+            { "name": "100mm x 100mm x 2.4m Rails", "price": 15.00, "unit": "each" },
+            { "name": "100mm x 100mm x 3.0m Rails", "price": 17.50, "unit": "each" },
+            { "name": "100mm x 100mm x 3.6m Rails", "price": 19.75, "unit": "each" },
+            { "name": "3m Scarthed Fence Rails", "price": 7.50, "unit": "each" },
+            { "name": "150mm x 22mm x 3.6m Edged Boards", "price": 7.70, "unit": "each" },
+            { "name": "150mm x 22mm x 4.2m Edged Boards", "price": 7.70, "unit": "each" }
+          ]
+        },
+        {
+          "name": "Sawn Fence Posts",
+          "items": [
+            { "name": "6\" x 3\" x 6' Fence Posts", "price": 12.25, "unit": "each" },
+            { "name": "6\" x 3\" x 7' Fence Posts", "price": 13.75, "unit": "each" },
+            { "name": "2.1m Mortice Posts", "price": 19.25, "unit": "each" },
+            { "name": "125mm x 125mm x 900mm V Cut Posts", "price": 10.50, "unit": "each" },
+            { "name": "100mm x 200mm x 2.4m Railway Sleepers", "price": 22.50, "unit": "each" },
+            { "name": "50mm x 50mm x 600mm Site Pegs", "price": 1.30, "unit": "each" }
+          ]
+        },
+        {
+          "name": "Gate Posts",
+          "items": [
+            { "name": "6\" x 6\" x 2.4m Gate Posts", "price": 40.00, "unit": "each" },
+            { "name": "7\" x 7\" x 2.4m Gate Posts", "price": 50.00, "unit": "each" },
+            { "name": "8\" x 8\" x 2.4m Gate Posts", "price": 60.00, "unit": "each" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gates",
+      "name": "Metal & Wooden Gates",
+      "dateLabel": "May 2025",
+      "description": "All metal gates are produced to a high quality by either IAE or Bateman. They come complete with two eyebolts and one sliding bolt. All sizes in stock and ready to take away.",
+      "subcategories": [
+        {
+          "name": "Galv 7 Bar Metal Gates",
+          "items": [
+            { "name": "3ft Gate", "price": 82.00, "unit": "each" },
+            { "name": "4ft Gate", "price": 89.00, "unit": "each" },
+            { "name": "5ft Gate", "price": 99.50, "unit": "each" },
+            { "name": "6ft Gate", "price": 105.00, "unit": "each" },
+            { "name": "7ft Gate", "price": 114.00, "unit": "each" },
+            { "name": "8ft Gate", "price": 122.00, "unit": "each" },
+            { "name": "9ft Gate", "price": 125.50, "unit": "each" },
+            { "name": "10ft Gate", "price": 128.00, "unit": "each" },
+            { "name": "11ft Gate", "price": 134.00, "unit": "each" },
+            { "name": "12ft Gate", "price": 135.00, "unit": "each" },
+            { "name": "13ft Gate", "price": 160.00, "unit": "each" },
+            { "name": "14ft Gate", "price": 162.00, "unit": "each" },
+            { "name": "15ft Gate", "price": 165.00, "unit": "each" },
+            { "name": "16ft Gate", "price": 178.00, "unit": "each" }
+          ]
+        },
+        {
+          "name": "Half Mesh Metal Gates",
+          "items": [
+            { "name": "3ft Gate", "price": 96.00, "unit": "each" },
+            { "name": "4ft Gate", "price": 106.00, "unit": "each" },
+            { "name": "5ft Gate", "price": 120.00, "unit": "each" },
+            { "name": "6ft Gate", "price": 125.00, "unit": "each" },
+            { "name": "7ft Gate", "price": 132.00, "unit": "each" },
+            { "name": "8ft Gate", "price": 150.00, "unit": "each" },
+            { "name": "9ft Gate", "price": 151.00, "unit": "each" },
+            { "name": "10ft Gate", "price": 152.00, "unit": "each" },
+            { "name": "11ft Gate", "price": 160.00, "unit": "each" },
+            { "name": "12ft Gate", "price": 168.00, "unit": "each" },
+            { "name": "13ft Gate", "price": 180.00, "unit": "each" },
+            { "name": "14ft Gate", "price": 188.00, "unit": "each" },
+            { "name": "15ft Gate", "price": 196.00, "unit": "each" },
+            { "name": "16ft Gate", "price": 208.00, "unit": "each" }
+          ]
+        },
+        {
+          "name": "HD Cattleyard Metal Gates",
+          "items": [
+            { "name": "10ft Gate", "price": 185.00, "unit": "each" },
+            { "name": "11ft Gate", "price": 195.00, "unit": "each" },
+            { "name": "12ft Gate", "price": 205.00, "unit": "each" },
+            { "name": "13ft Gate", "price": 215.00, "unit": "each" },
+            { "name": "14ft Gate", "price": 225.00, "unit": "each" },
+            { "name": "15ft Gate", "price": 245.00, "unit": "each" },
+            { "name": "16ft Gate", "price": 250.00, "unit": "each" }
+          ]
+        },
+        {
+          "name": "Wooden Field Gates",
+          "items": [
+            { "name": "3ft Gate", "price": 115.00, "unit": "each" },
+            { "name": "4ft Gate", "price": 129.00, "unit": "each" },
+            { "name": "5ft Gate", "price": 132.00, "unit": "each" },
+            { "name": "6ft Gate", "price": 140.00, "unit": "each" },
+            { "name": "8ft Gate", "price": 165.00, "unit": "each" },
+            { "name": "10ft Gate", "price": 180.00, "unit": "each" },
+            { "name": "12ft Gate", "price": 198.00, "unit": "each" }
+          ]
+        },
+        {
+          "name": "Metal Posts",
+          "items": [
+            { "name": "4.5\" x 2m Hanging Post", "price": 79.00, "unit": "each" },
+            { "name": "3.5\" x 2m Hanging Post", "price": 60.00, "unit": "each" },
+            { "name": "3.5\" x 2m Latching Post", "price": 60.00, "unit": "each" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stocknetting-wire",
+      "name": "Stocknetting & Wire",
+      "dateLabel": "2025",
+      "description": "Quality fencing wire and netting for all agricultural applications.",
+      "subcategories": [
+        {
+          "name": "Netting",
+          "items": [
+            { "name": "50m Stock Netting C8/80/15", "price": 72.00, "unit": "roll" },
+            { "name": "HT Stock Netting 100m HT8/80/15", "price": 159.00, "unit": "roll" },
+            { "name": "Horse Netting 50m HT13/122/7.5", "price": 216.00, "unit": "roll" },
+            { "name": "Deer Netting 100m HT13/190/15", "price": 288.00, "unit": "roll" },
+            { "name": "50m Rabbit/Chicken Netting", "price": 84.00, "unit": "roll" },
+            { "name": "2\" x 2\" Weld Mesh 25m", "price": 78.00, "unit": "roll" }
+          ]
+        },
+        {
+          "name": "Wire",
+          "items": [
+            { "name": "Double Strand Barbed Wire 200m", "price": 49.40, "unit": "roll" },
+            { "name": "2.5mm x 5kg Plain Wire", "price": 20.75, "unit": "coil" },
+            { "name": "2.5mm x 25kg Plain Wire", "price": 67.45, "unit": "coil" },
+            { "name": "3.15mm x 5kg Plain Wire", "price": 20.75, "unit": "coil" },
+            { "name": "3.15mm x 25kg Plain Wire", "price": 71.40, "unit": "coil" }
+          ]
+        }
+      ]
+    }
+  ]
+}

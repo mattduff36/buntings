@@ -1,1 +1,109 @@
-/* Demo A custom overrides */
+/* Responsive nav: show desktop nav on larger screens, mobile menu on smaller */
+:root {
+  --nav-desktop: flex;
+  --nav-mobile: none;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --nav-desktop: none !important;
+    --nav-mobile: flex !important;
+  }
+}
+
+/* Smooth scroll for the whole page */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Global link hover transition */
+a {
+  transition: opacity 0.2s ease;
+}
+
+/* Card hover lift for non-motion cards */
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+/* Image zoom on hover */
+.img-zoom-container:hover img {
+  transform: scale(1.05);
+}
+
+.img-zoom-container img {
+  transition: transform 0.5s ease;
+}
+
+/* Price highlight animation */
+@keyframes priceReveal {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Ensure touch targets are at least 44px */
+@media (max-width: 768px) {
+  button,
+  [role="button"],
+  a {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* Stack category grids on mobile */
+  .category-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Reduce hero height on mobile */
+  .hero-banner {
+    max-height: 320px;
+  }
+}
+
+/* Typography enhancements */
+h1, h2, h3, h4, h5, h6 {
+  text-wrap: balance;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+/* Focus visible for accessibility */
+:focus-visible {
+  outline: 2px solid var(--brand-strong, #2d6a2d);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Smooth transitions for theme changes */
+* {
+  transition-property: background-color, border-color;
+  transition-duration: 0.15s;
+  transition-timing-function: ease;
+}
+
+/* Override for elements that shouldn't have background transitions */
+img, video, canvas {
+  transition: none;
+}
+
+/* Tabular nums for prices */
+[data-price] {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Mobile story strip stacking */
+@media (max-width: 640px) {
+  .story-strip {
+    grid-template-columns: 1fr !important;
+  }
+}

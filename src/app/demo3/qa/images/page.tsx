@@ -1,5 +1,10 @@
 import { QAImagesPage } from '@/components/shared/QAImagesPage';
+import { PageWrapper } from '@/components/shared/PageWrapper';
 
 export default function Demo3QA() {
-  return <QAImagesPage />;
+  return (
+    <PageWrapper>
+      <QAImagesPage />
+    </PageWrapper>
+  );
 }

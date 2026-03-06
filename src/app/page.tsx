@@ -5,26 +5,26 @@ import Link from 'next/link';
 const demos = [
   {
     id: 'demo1',
-    title: 'Modern Minimal',
-    subtitle: 'Clean lines, generous whitespace, professional tone',
-    description: 'Light theme with slate neutrals and green accents. Best for brand presentation, investor-facing materials, and professional audiences.',
-    tags: ['Light Theme', 'Green / Emerald', 'Conservative Borders'],
+    title: 'Country Green',
+    subtitle: 'Modern clean agricultural brand with premium editorial feel',
+    description: 'Light theme with deep green accents. Full-viewport hero, interactive accordion pricing, image-forward category cards, and scroll-triggered animations. Elegant and spacious.',
+    tags: ['Light Theme', 'Green / Emerald', 'Accordion Pricing', 'Editorial'],
     href: '/demo1',
   },
   {
     id: 'demo2',
-    title: 'Bold Cards',
-    subtitle: 'High contrast, big typography, dark mode impact',
-    description: 'Dark theme with orange brand and yellow accents. Best for trade shows, product showcasing, social media screenshots, and visual impact.',
-    tags: ['Dark Theme', 'Orange / Yellow', 'Playful Borders', '105% Scale'],
+    title: 'Dark Machinery',
+    subtitle: 'Data-driven catalogue with powerful filtering and stats',
+    description: 'Dark theme with gold accents. Carousel hero with animated stats, real-time searchable price list with category filters, compact product grids. Information-first.',
+    tags: ['Dark Theme', 'Amber / Gold', 'Filterable Prices', 'Data-Dense'],
     href: '/demo2',
   },
   {
     id: 'demo3',
-    title: 'Catalogue Dense',
-    subtitle: 'Information-first, compact layout, quick scanning',
-    description: 'Light theme with sand neutrals and blue accents. Best for power users, quick scanning, price-list browsing, and repeat buyers.',
-    tags: ['Light Theme', 'Blue / Cyan', 'Sharp Borders', '95% Scale'],
+    title: 'Classic Earth',
+    subtitle: 'High-impact marketing with bold storytelling sections',
+    description: 'Warm earth tones with bronze accents. Hero carousel, story strip, image-based category banners, expandable pricing cards, and bold CTA sections. Brand-forward and engaging.',
+    tags: ['Light Theme', 'Bronze / Earth', 'Category Reveal', 'Marketing'],
     href: '/demo3',
   },
 ];
@@ -83,10 +83,10 @@ export default function LandingPage() {
 
           <Column gap="s" style={{ textAlign: 'center' }} paddingY="l">
             <Text variant="body-default-s" onBackground="neutral-weak">
-              Each demo includes: Home, Categories, Product Detail, Content Pages, Contact, and Image QA.
+              Each demo includes: Home, Categories, Product Detail, Interactive Pricing, Content Pages, and Contact.
             </Text>
             <Text variant="body-default-xs" onBackground="neutral-weak">
-              Built with Once UI + Next.js &bull; Data from OpenCart SQL dump
+              Built with Once UI + Next.js + Framer Motion &bull; Real product and pricing data &bull; 100+ fencing price items
             </Text>
           </Column>
         </Column>
