@@ -1,18 +1,32 @@
 {
-  "name": "buntings-demo-rebuild",
+  "name": "buntings-demos",
   "version": "1.0.0",
   "private": true,
-  "workspaces": [
-    "apps/demo-a"
-  ],
   "scripts": {
-    "dev": "npm run dev --workspace=apps/demo-a",
-    "build": "npm run build --workspace=apps/demo-a",
-    "start": "npm run start --workspace=apps/demo-a",
+    "dev": "next dev --port 4000",
+    "build": "next build",
+    "start": "next start --port 4000",
     "data:parse": "node scripts/opencart-sql-to-json.mjs",
     "data:images": "node scripts/resolve-images.mjs",
     "data:enrich": "node scripts/enrich-from-scrape.mjs",
     "data:build": "npm run data:parse && npm run data:images && npm run data:enrich"
+  },
+  "dependencies": {
+    "@once-ui-system/core": "latest",
+    "classnames": "^2.5.1",
+    "next": "^15.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "sass": "^1.77.6",
+    "sharp": "^0.33.4",
+    "dompurify": "^3.2.4",
+    "isomorphic-dompurify": "^2.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.23",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.2",
+    "typescript": "^5.8.2"
   },
   "engines": {
     "node": ">=18"
