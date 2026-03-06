@@ -1,0 +1,27 @@
+{
+  "name": "buntings-demos",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 4000",
+    "build": "next build",
+    "start": "next start --port 4000"
+  },
+  "dependencies": {
+    "@once-ui-system/core": "latest",
+    "classnames": "^2.5.1",
+    "next": "^15.3.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "sass": "^1.77.6",
+    "sharp": "^0.33.4",
+    "dompurify": "^3.2.4",
+    "isomorphic-dompurify": "^2.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.23",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.2",
+    "typescript": "^5.8.2"
+  }
+}

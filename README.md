@@ -1,136 +1,80 @@
-# CursorPlaybook
+# Buntings Frontend Demo Rebuild
 
-A Cursor-native playbook for AI-assisted development. Includes rules, command templates, and MCP configurations to supercharge your Cursor workflow.
+Three distinct frontend-only demo sites built from the same data pack, using **Once UI** + **Next.js**.
 
-## What's Inside
+## Data Sources
 
-```
-CursorPlaybook/
-├── .cursor/
-│   ├── rules/              # Cursor project rules (.mdc format)
-│   │   ├── 00-core.mdc         # Always-on core principles
-│   │   ├── coding-style.mdc    # Code quality standards
-│   │   ├── security.mdc        # Security checklist
-│   │   ├── testing.mdc         # TDD and testing requirements
-│   │   ├── git-workflow.mdc    # Git conventions
-│   │   └── performance-context.mdc  # Context management
-│   │
-│   ├── commands/           # Reusable prompt templates
-│   │   ├── plan.md             # Implementation planning
-│   │   ├── code-review.md      # Code review checklist
-│   │   ├── build-fix.md        # Build error resolution
-│   │   ├── tdd.md              # Test-driven development
-│   │   ├── refactor-clean.md   # Dead code cleanup
-│   │   └── e2e.md              # E2E test generation
-│   │
-│   └── mcp.json            # MCP server configurations
-│
-├── docs/
-│   └── mcp-setup.md        # MCP setup instructions
-│
-├── AGENTS.md               # How to use this playbook
-└── README.md               # This file
-```
+| Source | Location |
+|--------|----------|
+| OpenCart SQL dump | `private/buntin_db1_2026-03-05_19-12-20_backup.sql` |
+| Scraped site images (cache) | `private/Buntings_scrape/buntingsagri.co.uk/image/cache` |
+| Scraped HTML pages | `private/Buntings_scrape/buntingsagri.co.uk/` |
 
 ## Quick Start
 
-### 1. Clone or Copy
+```bash
+# 1. Install dependencies
+npm install
+
+# 2. Generate JSON data + resolve images
+npm run data:build
+
+# 3. Run a demo (pick one)
+npm run demo:a   # Modern Minimal        (port 3001)
+npm run demo:b   # Bold Cards            (port 3002)
+npm run demo:c   # Catalogue-first Dense (port 3003)
+```
+
+## Scripts
+
+| Script | Description |
+|--------|-------------|
+| `npm run data:parse` | Parse SQL dump into JSON files in `data/processed/` |
+| `npm run data:images` | Resolve DB image paths to local cache files, copy into `public/legacy-images/` |
+| `npm run data:enrich` | Extract extra content from scraped HTML |
+| `npm run data:build` | Run all three data scripts in sequence |
+| `npm run demo:a` | Start demo-a dev server |
+| `npm run demo:b` | Start demo-b dev server |
+| `npm run demo:c` | Start demo-c dev server |
+| `npm run build:all` | Production build all three demos |
+
+## Regenerating JSON
+
+If the SQL dump or scrape assets change, re-run:
 
 ```bash
-# Clone this repo
-git clone https://github.com/mattduff36/CursorPlaybook.git
-
-# Or copy .cursor/ folder to your project
-cp -r CursorPlaybook/.cursor your-project/.cursor
+npm run data:build
 ```
 
-### 2. Configure MCP (Optional)
+This will re-parse the SQL, re-resolve images, and re-extract content. Then restart any running demo server to pick up the new data.
 
-Edit `.cursor/mcp.json` and replace placeholder values:
-- `YOUR_GITHUB_PAT_HERE` - Your GitHub Personal Access Token
-- See [docs/mcp-setup.md](docs/mcp-setup.md) for full setup instructions
+## Demo Themes
 
-### 3. Open in Cursor
+| Demo | Direction | Best For |
+|------|-----------|----------|
+| demo-a | Modern Minimal | Clean brand presentation, investor/partner audiences |
+| demo-b | Bold Cards / Big Typography | Visual impact, showcasing product range |
+| demo-c | Catalogue-first / Dense | Power users, quick scanning, price-list feel |
 
-Open your project in Cursor. Rules will automatically apply based on their configuration.
+## Image QA
 
-## Using the Playbook
+Each demo includes a `/qa/images` route that lists all products with their resolved image and confidence score. Use the filter toggles to quickly spot-check missing or low-confidence matches.
 
-### Rules (Automatic)
-
-Rules in `.cursor/rules/` are applied automatically:
-
-- **`00-core.mdc`** - Always active (core principles)
-- **`coding-style.mdc`** - Applies to code files (ts, tsx, js, jsx, py, go, rs)
-- **`security.mdc`** - Applies to code files
-- **`testing.mdc`** - Applies to test files
-- **`git-workflow.mdc`** - Available for reference
-- **`performance-context.mdc`** - Available for reference
-
-### Commands (Manual)
-
-Reference command templates in your chat:
+## Project Structure
 
 ```
-@.cursor/commands/plan.md
-
-I need to implement user authentication
+buntings/
+├── scripts/                  # Data generation scripts
+├── data/
+│   ├── raw/                  # (reserved for future raw exports)
+│   └── processed/            # Generated JSON data packs
+├── apps/
+│   ├── demo-a/               # Next.js app — Modern Minimal
+│   ├── demo-b/               # Next.js app — Bold Cards
+│   └── demo-c/               # Next.js app — Catalogue-first
+├── public/
+│   └── legacy-images/        # Resolved product images (gitignored, regenerated)
+├── deliverables/             # Client-facing notes
+├── private/                  # SQL dump + scrape archive (gitignored)
+└── package.json              # Workspace root
 ```
-
-Available commands:
-- `plan.md` - Create implementation plans before coding
-- `code-review.md` - Review code for quality and security
-- `build-fix.md` - Fix build/TypeScript errors incrementally
-- `tdd.md` - Implement features with test-driven development
-- `refactor-clean.md` - Find and remove dead code
-- `e2e.md` - Generate Playwright E2E tests
-
-### MCP Servers
-
-MCP servers extend Cursor with external tools. Enable/disable in `.cursor/mcp.json`:
-
-- **github** - GitHub operations (PRs, issues, repos)
-- **context7** - Live documentation lookup
-- **memory** - Persistent memory across sessions
-- **filesystem** - Extended file operations
-- **vercel** - Vercel deployments
-- **supabase** - Database operations
-
-## Customization
-
-### Adding Your Own Rules
-
-Create new `.mdc` files in `.cursor/rules/`:
-
-```markdown
----
-description: My custom rule
-globs: "**/*.ts"  # or alwaysApply: true
----
-
-# My Rule
-
-Your instructions here...
-```
-
-### Adding Command Templates
-
-Create new `.md` files in `.cursor/commands/`:
-
-```markdown
-# My Command
-
-## How to Use
-...
-
-## Expected Output
-...
-```
-
-## Credits
-
-Ported from [everything-claude-code](https://github.com/affaan-m/everything-claude-code) by [@affaanmustafa](https://x.com/affaanmustafa), adapted for Cursor.
-
-## License
-
-MIT - Use freely, modify as needed.

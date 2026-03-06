@@ -1,0 +1,188 @@
+[
+  {
+    "id": 12,
+    "name": "Bepco",
+    "image": "catalog/images/manufacturers/bepco.png",
+    "sortOrder": 2
+  },
+  {
+    "id": 13,
+    "name": "KRAMP",
+    "image": "catalog/images/manufacturers/kramp.png",
+    "sortOrder": 3
+  },
+  {
+    "id": 14,
+    "name": "Lodi",
+    "image": "catalog/images/manufacturers/lodi_uk.png",
+    "sortOrder": 4
+  },
+  {
+    "id": 11,
+    "name": "Vapomatic",
+    "image": "catalog/images/manufacturers/vapormatic.png",
+    "sortOrder": 1
+  },
+  {
+    "id": 15,
+    "name": "Harlequin",
+    "image": "catalog/images/manufacturers/harlequin.png",
+    "sortOrder": 5
+  },
+  {
+    "id": 16,
+    "name": "KERBL",
+    "image": "catalog/images/manufacturers/kerbl.png",
+    "sortOrder": 6
+  },
+  {
+    "id": 17,
+    "name": "IAE",
+    "image": "catalog/images/manufacturers/IAE.png",
+    "sortOrder": 7
+  },
+  {
+    "id": 18,
+    "name": "Galebreaker",
+    "image": "catalog/images/manufacturers/galebreaker.png",
+    "sortOrder": 8
+  },
+  {
+    "id": 19,
+    "name": "Gwaza",
+    "image": "catalog/images/manufacturers/gwaza_1.png",
+    "sortOrder": 9
+  },
+  {
+    "id": 20,
+    "name": "Granit",
+    "image": "catalog/images/manufacturers/granit.png",
+    "sortOrder": 10
+  },
+  {
+    "id": 21,
+    "name": "Browns",
+    "image": "catalog/images/manufacturers/browns_2.png",
+    "sortOrder": 11
+  },
+  {
+    "id": 22,
+    "name": "Major",
+    "image": "catalog/images/manufacturers/major.png",
+    "sortOrder": 12
+  },
+  {
+    "id": 23,
+    "name": "Buckler Boots",
+    "image": "catalog/images/manufacturers/buckler_boots.png",
+    "sortOrder": 13
+  },
+  {
+    "id": 24,
+    "name": "LWC",
+    "image": "catalog/images/manufacturers/lwc.png",
+    "sortOrder": 14
+  },
+  {
+    "id": 25,
+    "name": "Bateman",
+    "image": "catalog/images/manufacturers/bateman.png",
+    "sortOrder": 15
+  },
+  {
+    "id": 26,
+    "name": "Foster",
+    "image": "catalog/images/manufacturers/foster.png",
+    "sortOrder": 16
+  },
+  {
+    "id": 27,
+    "name": "Albutt",
+    "image": "catalog/images/manufacturers/albutt.png",
+    "sortOrder": 17
+  },
+  {
+    "id": 28,
+    "name": "Marshall",
+    "image": "catalog/images/manufacturers/marshall.png",
+    "sortOrder": 18
+  },
+  {
+    "id": 29,
+    "name": "JFC",
+    "image": "catalog/images/manufacturers/jfc.png",
+    "sortOrder": 19
+  },
+  {
+    "id": 30,
+    "name": "Pottinger",
+    "image": "catalog/images/manufacturers/poetinger.png",
+    "sortOrder": 20
+  },
+  {
+    "id": 31,
+    "name": "Tafe",
+    "image": "catalog/images/manufacturers/tafe.png",
+    "sortOrder": 21
+  },
+  {
+    "id": 32,
+    "name": "Walter Watson",
+    "image": "catalog/images/manufacturers/walter_watson.png",
+    "sortOrder": 22
+  },
+  {
+    "id": 33,
+    "name": "Teagle",
+    "image": "catalog/images/manufacturers/teagle.png",
+    "sortOrder": 23
+  },
+  {
+    "id": 34,
+    "name": "TGB",
+    "image": "catalog/images/manufacturers/tgb.png",
+    "sortOrder": 24
+  },
+  {
+    "id": 35,
+    "name": "Oxdale",
+    "image": "catalog/images/manufacturers/oxdale.png",
+    "sortOrder": 25
+  },
+  {
+    "id": 36,
+    "name": "247 Lighting",
+    "image": "catalog/images/manufacturers/246lighting_3.png",
+    "sortOrder": 26
+  },
+  {
+    "id": 37,
+    "name": "Bobcat",
+    "image": null,
+    "sortOrder": 27
+  },
+  {
+    "id": 38,
+    "name": "CAT",
+    "image": null,
+    "sortOrder": 28
+  },
+  {
+    "id": 39,
+    "name": "Marston",
+    "image": null,
+    "sortOrder": 29
+  },
+  {
+    "id": 40,
+    "name": "John Deere",
+    "image": null,
+    "sortOrder": 30
+  },
+  {
+    "id": 41,
+    "name": "Armstrong And Holmes",
+    "image": null,
+    "sortOrder": 31
+  }
+]

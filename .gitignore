@@ -18,11 +18,19 @@ Thumbs.db
 dist/
 build/
 .next/
+out/
 
 # Test artifacts
 coverage/
 playwright-report/
 test-results/
+
+# Private data sources (SQL dumps, scrape archive)
+private/
+
+# Generated legacy images (regenerate via npm run data:images)
+public/legacy-images/
+apps/demo-a/public/legacy-images/
 
 # Note: .cursor/mcp.json contains placeholder values
 # If you add real secrets, consider adding it to .gitignore:

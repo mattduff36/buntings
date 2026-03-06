@@ -1,0 +1,1442 @@
+[
+  {
+    "productId": 372,
+    "mainDbPath": "catalog/Tafe/IMG_0416.jpg",
+    "mainLocalUrl": "/legacy-images/products/372/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 3,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 423,
+    "mainDbPath": "catalog/Toppers /640x440-Topper4.jpg",
+    "mainLocalUrl": "/legacy-images/products/423/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 412,
+    "mainDbPath": "catalog/QUADS/IMG_4613.jpg",
+    "mainLocalUrl": "/legacy-images/products/412/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 600,
+    "mainDbPath": "catalog/Walter Watson /IMG_0035.jpeg",
+    "mainLocalUrl": "/legacy-images/products/600/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 381,
+    "mainDbPath": "catalog/Trailers/IMG_0078.jpeg",
+    "mainLocalUrl": "/legacy-images/products/381/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 383,
+    "mainDbPath": "catalog/Walter Watson /Screenshot 2023-03-09 14.07.30.png",
+    "mainLocalUrl": "/legacy-images/products/383/main.png",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 554,
+    "mainDbPath": "catalog/Attachments /IMG_0536.jpg",
+    "mainLocalUrl": "/legacy-images/products/554/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 599,
+    "mainDbPath": "catalog/Harlequin/IMG_0056.jpeg",
+    "mainLocalUrl": "/legacy-images/products/599/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 404,
+    "mainDbPath": "catalog/Attachments /2E6BA020-F9D8-4205-AE49-D40D58D66920.jpeg",
+    "mainLocalUrl": "/legacy-images/products/404/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 395,
+    "mainDbPath": "catalog/Grass/48C9CD56-2063-4938-BCD3-275DE897DCC2.jpeg",
+    "mainLocalUrl": "/legacy-images/products/395/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 225,
+    "mainDbPath": "catalog/Trailers/8B4EA141-5F60-4AD5-91C7-2D7C81AE0629.jpeg",
+    "mainLocalUrl": "/legacy-images/products/225/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 228,
+    "mainDbPath": "catalog/Walter Watson /IMG_0041.jpeg",
+    "mainLocalUrl": "/legacy-images/products/228/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 229,
+    "mainDbPath": "catalog/Walter Watson /IMG_9015.jpg",
+    "mainLocalUrl": "/legacy-images/products/229/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 409,
+    "mainDbPath": "catalog/QUADS/IMG_5053.jpg",
+    "mainLocalUrl": "/legacy-images/products/409/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 235,
+    "mainDbPath": "catalog/IAE/IMG_9044.jpg",
+    "mainLocalUrl": "/legacy-images/products/235/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 583,
+    "mainDbPath": "catalog/IAE/IMG_9033 (1).jpg",
+    "mainLocalUrl": "/legacy-images/products/583/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 237,
+    "mainDbPath": "catalog/IAE/IMG_9034.jpg",
+    "mainLocalUrl": "/legacy-images/products/237/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 239,
+    "mainDbPath": "catalog/IAE/IMG_9040.jpg",
+    "mainLocalUrl": "/legacy-images/products/239/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 247,
+    "mainDbPath": "catalog/Tractors /55CF207A-701A-4EB3-B625-ED822419EAB5.jpeg",
+    "mainLocalUrl": "/legacy-images/products/247/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 4,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 249,
+    "mainDbPath": "catalog/Attachments /IMG_0053.jpeg",
+    "mainLocalUrl": "/legacy-images/products/249/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 405,
+    "mainDbPath": "catalog/Pottinger/IMG_2915.jpg",
+    "mainLocalUrl": "/legacy-images/products/405/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 251,
+    "mainDbPath": "catalog/Trailers/IMG_0066.jpeg",
+    "mainLocalUrl": "/legacy-images/products/251/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 257,
+    "mainDbPath": "catalog/Trailers/IMG_0563.jpg",
+    "mainLocalUrl": "/legacy-images/products/257/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 259,
+    "mainDbPath": "catalog/Walter Watson /IMG_0036.jpeg",
+    "mainLocalUrl": "/legacy-images/products/259/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 388,
+    "mainDbPath": "catalog/IAE/IMG_0061.jpeg",
+    "mainLocalUrl": "/legacy-images/products/388/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 389,
+    "mainDbPath": "catalog/Tractors /1CF0A942-5448-4A6B-B06F-FC22DE13C6C4.jpeg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 2
+  },
+  {
+    "productId": 552,
+    "mainDbPath": "catalog/Trailers/IMG_0365.jpg",
+    "mainLocalUrl": "/legacy-images/products/552/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 425,
+    "mainDbPath": "catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321.jpg",
+    "mainLocalUrl": "/legacy-images/products/425/main.jpg",
+    "mainConfidence": "low",
+    "mainStage": "C",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 422,
+    "mainDbPath": "catalog/Toppers /640x440-Topper-5.jpg",
+    "mainLocalUrl": "/legacy-images/products/422/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 319,
+    "mainDbPath": "catalog/Attachments /7C09B88D-5E4F-423C-B7AB-8AEE58472A6A.jpeg",
+    "mainLocalUrl": "/legacy-images/products/319/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 429,
+    "mainDbPath": "catalog/Grass/IMG_0542.jpg",
+    "mainLocalUrl": "/legacy-images/products/429/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 428,
+    "mainDbPath": "catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321.jpg",
+    "mainLocalUrl": "/legacy-images/products/428/main.jpg",
+    "mainConfidence": "low",
+    "mainStage": "C",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 377,
+    "mainDbPath": "catalog/Attachments /E4EBDB17-AB1F-44CA-BAF7-BE5CA60C3B35.jpeg",
+    "mainLocalUrl": "/legacy-images/products/377/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 301,
+    "mainDbPath": "catalog/Grass/E9AF50FB-7A3C-4B21-8A80-854DBF10CF75.jpeg",
+    "mainLocalUrl": "/legacy-images/products/301/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 3,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 553,
+    "mainDbPath": "catalog/cultivating and drilling/IMG_0209.jpg",
+    "mainLocalUrl": "/legacy-images/products/553/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 4,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 371,
+    "mainDbPath": "catalog/Trailers/IMG_0064.jpeg",
+    "mainLocalUrl": "/legacy-images/products/371/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 308,
+    "mainDbPath": "catalog/Attachments /5BD3A381-280A-4925-A83B-02C06D07464B.jpeg",
+    "mainLocalUrl": "/legacy-images/products/308/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 399,
+    "mainDbPath": "catalog/Grass/0BD3CB52-929A-41DE-A252-022F4DA088D7.jpeg",
+    "mainLocalUrl": "/legacy-images/products/399/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 400,
+    "mainDbPath": "catalog/Protech /IMG_0545.jpg",
+    "mainLocalUrl": "/legacy-images/products/400/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 317,
+    "mainDbPath": "catalog/Pottinger/5B788580-CD28-4166-A365-6B8224259B6D.jpeg",
+    "mainLocalUrl": "/legacy-images/products/317/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 543,
+    "mainDbPath": "catalog/Grass/IMG_8577.jpg",
+    "mainLocalUrl": "/legacy-images/products/543/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 559,
+    "mainDbPath": "catalog/Attachments /IMG_0535 (1).jpg",
+    "mainLocalUrl": "/legacy-images/products/559/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 604,
+    "mainDbPath": "catalog/Grass/IMG_4015 (1).jpeg",
+    "mainLocalUrl": "/legacy-images/products/604/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 426,
+    "mainDbPath": "catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321.jpg",
+    "mainLocalUrl": "/legacy-images/products/426/main.jpg",
+    "mainConfidence": "low",
+    "mainStage": "C",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 576,
+    "mainDbPath": "catalog/balers and wrappers/IMG_2927.jpg",
+    "mainLocalUrl": "/legacy-images/products/576/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 574,
+    "mainDbPath": "catalog/QUADS/IMG_5052.jpg",
+    "mainLocalUrl": "/legacy-images/products/574/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 452,
+    "mainDbPath": "catalog/IAE/cradle.jpg",
+    "mainLocalUrl": "/legacy-images/products/452/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 427,
+    "mainDbPath": "catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321.jpg",
+    "mainLocalUrl": "/legacy-images/products/427/main.jpg",
+    "mainConfidence": "low",
+    "mainStage": "C",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 386,
+    "mainDbPath": "catalog/Attachments /IMG_0522.jpg",
+    "mainLocalUrl": "/legacy-images/products/386/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 384,
+    "mainDbPath": "catalog/Sprayers and spreaders /B756B3A9-C641-45BB-BD12-0E9E570ED880.jpeg",
+    "mainLocalUrl": "/legacy-images/products/384/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 575,
+    "mainDbPath": "catalog/QUADS/IMG_6596.jpg",
+    "mainLocalUrl": "/legacy-images/products/575/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 339,
+    "mainDbPath": "catalog/cultivating and drilling/IMG_0513.jpg",
+    "mainLocalUrl": "/legacy-images/products/339/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 3,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 597,
+    "mainDbPath": "catalog/Water troughs/IMG_0094.jpeg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 570,
+    "mainDbPath": "catalog/Trailers/IMG_4732.jpg",
+    "mainLocalUrl": "/legacy-images/products/570/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 4,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 334,
+    "mainDbPath": "catalog/Attachments /6401CF06-4237-4D63-830C-B5C9967F47BE.jpeg",
+    "mainLocalUrl": "/legacy-images/products/334/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 337,
+    "mainDbPath": "catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321.jpg",
+    "mainLocalUrl": "/legacy-images/products/337/main.jpg",
+    "mainConfidence": "low",
+    "mainStage": "C",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 340,
+    "mainDbPath": "catalog/Attachments /1FD6CD39-7D24-4CD6-BAC7-93E5CE24D854.jpeg",
+    "mainLocalUrl": "/legacy-images/products/340/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 342,
+    "mainDbPath": "catalog/Attachments /two tine bale.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 402,
+    "mainDbPath": "catalog/Grass/6147D18D-94EC-4718-B8DF-663C3E3DD97E.jpeg",
+    "mainLocalUrl": "/legacy-images/products/402/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 346,
+    "mainDbPath": "catalog/Attachments /taylor attach.jpg",
+    "mainLocalUrl": "/legacy-images/products/346/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 556,
+    "mainDbPath": "catalog/balers and wrappers/IMG_0510.jpg",
+    "mainLocalUrl": "/legacy-images/products/556/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 351,
+    "mainDbPath": "catalog/Trailers/A52E74F9-4125-43EB-B6A0-6FD9712E6713.jpeg",
+    "mainLocalUrl": "/legacy-images/products/351/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 352,
+    "mainDbPath": "catalog/QUADS/C605F58A-29FF-4549-B8EB-FB04BD590384.jpeg",
+    "mainLocalUrl": "/legacy-images/products/352/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 580,
+    "mainDbPath": "catalog/Trailers/IMG_9004.jpg",
+    "mainLocalUrl": "/legacy-images/products/580/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 355,
+    "mainDbPath": "catalog/Grass/4E0B80C0-CB6D-49B9-BCB7-3B2A801180E4.jpeg",
+    "mainLocalUrl": "/legacy-images/products/355/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 571,
+    "mainDbPath": "catalog/Attachments /IMG_8987 (1).jpg",
+    "mainLocalUrl": "/legacy-images/products/571/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 413,
+    "mainDbPath": "catalog/Arable /IMG_8004.jpg",
+    "mainLocalUrl": "/legacy-images/products/413/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 1
+  },
+  {
+    "productId": 567,
+    "mainDbPath": "catalog/Sprayers and spreaders /IMG_0616.jpg",
+    "mainLocalUrl": "/legacy-images/products/567/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 380,
+    "mainDbPath": "catalog/Trailers/FA81C6BB-7E50-4DF9-AA1C-87999592F1F5.jpeg",
+    "mainLocalUrl": "/legacy-images/products/380/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 364,
+    "mainDbPath": "catalog/Arable /E672B5A5-78DD-4F84-9EC4-4D8F5E47650E.jpeg",
+    "mainLocalUrl": "/legacy-images/products/364/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 601,
+    "mainDbPath": "catalog/Trailers/IMG_0932.jpeg",
+    "mainLocalUrl": "/legacy-images/products/601/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 606,
+    "mainDbPath": "catalog/Attachments /IMG_4017.jpeg",
+    "mainLocalUrl": "/legacy-images/products/606/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 430,
+    "mainDbPath": "catalog/Logo/FRANSGUARD.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 431,
+    "mainDbPath": "catalog/Logo/MT_Brand-Logo_P_FC_300DPI.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 432,
+    "mainDbPath": "catalog/Logo/astwell.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 433,
+    "mainDbPath": "catalog/Logo/twose.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 434,
+    "mainDbPath": "catalog/Logo/teagle.png",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 435,
+    "mainDbPath": "catalog/Logo/protech.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 436,
+    "mainDbPath": "catalog/Logo/galebreaker.png",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 437,
+    "mainDbPath": "catalog/Logo/Screenshot 2023-04-03 09.19.17.png",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 438,
+    "mainDbPath": "catalog/Logo/major.png",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 439,
+    "mainDbPath": "catalog/Logo/krm.gif",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 440,
+    "mainDbPath": "catalog/Logo/Tafe.png",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 441,
+    "mainDbPath": "catalog/Logo/browns.png",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 442,
+    "mainDbPath": "catalog/Logo/iae logo.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 443,
+    "mainDbPath": "catalog/Logo/tgb.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 444,
+    "mainDbPath": "catalog/Logo/bateman.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 445,
+    "mainDbPath": "catalog/Logo/strimech.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 446,
+    "mainDbPath": "catalog/Logo/pottinger logo.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 447,
+    "mainDbPath": "catalog/Logo/Harry West.png",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 448,
+    "mainDbPath": "catalog/Logo/buckler logo.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 449,
+    "mainDbPath": "catalog/Logo/download.png",
+    "mainLocalUrl": "/legacy-images/products/449/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 450,
+    "mainDbPath": "catalog/Toppers /640x440-Dynamo-120.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 451,
+    "mainDbPath": "catalog/Sprayers and spreaders /gwaza.jpg",
+    "mainLocalUrl": "/legacy-images/products/451/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 453,
+    "mainDbPath": "catalog/IAE/IMG_9031.jpg",
+    "mainLocalUrl": "/legacy-images/products/453/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 454,
+    "mainDbPath": "catalog/Water troughs/IMG_0092.jpeg",
+    "mainLocalUrl": "/legacy-images/products/454/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 455,
+    "mainDbPath": "catalog/Water troughs/IMG_0093.jpeg",
+    "mainLocalUrl": "/legacy-images/products/455/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 456,
+    "mainDbPath": "catalog/IAE/s-l1600.jpg",
+    "mainLocalUrl": "/legacy-images/products/456/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 457,
+    "mainDbPath": "catalog/IAE/s-l1600.jpg",
+    "mainLocalUrl": "/legacy-images/products/457/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 458,
+    "mainDbPath": "catalog/IAE/s-l1600.jpg",
+    "mainLocalUrl": "/legacy-images/products/458/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 459,
+    "mainDbPath": "catalog/Water troughs/IMG_0084.jpeg",
+    "mainLocalUrl": "/legacy-images/products/459/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 460,
+    "mainDbPath": "catalog/Water troughs/IMG_0085.jpeg",
+    "mainLocalUrl": "/legacy-images/products/460/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 461,
+    "mainDbPath": "catalog/Water troughs/IMG_0087.jpeg",
+    "mainLocalUrl": "/legacy-images/products/461/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 462,
+    "mainDbPath": "catalog/Water troughs/IMG_0086.jpeg",
+    "mainLocalUrl": "/legacy-images/products/462/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 463,
+    "mainDbPath": "catalog/Water troughs/IMG_0086.jpeg",
+    "mainLocalUrl": "/legacy-images/products/463/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 464,
+    "mainDbPath": "catalog/JFC/download.jpeg",
+    "mainLocalUrl": "/legacy-images/products/464/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 471,
+    "mainDbPath": "catalog/IAE/IMG_9030.jpg",
+    "mainLocalUrl": "/legacy-images/products/471/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 472,
+    "mainDbPath": "catalog/IAE/IMG_9037.jpg",
+    "mainLocalUrl": "/legacy-images/products/472/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 473,
+    "mainDbPath": "catalog/IAE/IMG_9029.jpg",
+    "mainLocalUrl": "/legacy-images/products/473/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 474,
+    "mainDbPath": "catalog/JFC/IMG_8956.jpg",
+    "mainLocalUrl": "/legacy-images/products/474/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 596,
+    "mainDbPath": "catalog/Water troughs/IMG_0083.jpeg",
+    "mainLocalUrl": "/legacy-images/products/596/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 478,
+    "mainDbPath": "catalog/Timber/127.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 546,
+    "mainDbPath": "catalog/Timber/fencerail_778x.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 547,
+    "mainDbPath": "catalog/Timber/P1010085.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 548,
+    "mainDbPath": "catalog/Timber/Large-Gate-Posts.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 549,
+    "mainDbPath": "catalog/Timber/thumb_2406_default_zoomed.jpeg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 550,
+    "mainDbPath": "catalog/Timber/pointed-peg-450mm-x-48mm-x-48mm-p465-1778_zoom.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 551,
+    "mainDbPath": "catalog/Timber/sleepersbundle__93687.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 561,
+    "mainDbPath": "catalog/Grass/IMG_0553.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 605,
+    "mainDbPath": "catalog/Attachments /IMG_4018.jpeg",
+    "mainLocalUrl": "/legacy-images/products/605/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 568,
+    "mainDbPath": "catalog/balers and wrappers/IMG_0624.jpg",
+    "mainLocalUrl": "/legacy-images/products/568/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 569,
+    "mainDbPath": "catalog/Protech /IMG_0026.jpeg",
+    "mainLocalUrl": "/legacy-images/products/569/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 509,
+    "mainDbPath": "catalog/Plant Hire/IMG_5321.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 510,
+    "mainDbPath": "catalog/Plant Hire/IMG_5324.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 511,
+    "mainDbPath": "catalog/Plant Hire/IMG_7841.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 1
+  },
+  {
+    "productId": 512,
+    "mainDbPath": "catalog/Plant Hire/IMG_3772.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 558,
+    "mainDbPath": "catalog/Grass/IMG_0534.jpg",
+    "mainLocalUrl": "/legacy-images/products/558/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 514,
+    "mainDbPath": "catalog/Plant Hire/IMG_5326.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 516,
+    "mainDbPath": "catalog/Plant Hire/IMG_3301.JPG",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 518,
+    "mainDbPath": "catalog/Attachments /IMG_5340.jpg",
+    "mainLocalUrl": "/legacy-images/products/518/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 519,
+    "mainDbPath": "catalog/Attachments /IMG_5360.jpg",
+    "mainLocalUrl": "/legacy-images/products/519/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 521,
+    "mainDbPath": "catalog/Grass/IMG_5364.jpg",
+    "mainLocalUrl": "/legacy-images/products/521/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 577,
+    "mainDbPath": "catalog/Attachments /IMG_3702.jpg",
+    "mainLocalUrl": "/legacy-images/products/577/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 524,
+    "mainDbPath": "catalog/Grass/IMG_0538.jpg",
+    "mainLocalUrl": "/legacy-images/products/524/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 525,
+    "mainDbPath": "catalog/Grass/IMG_0537.jpg",
+    "mainLocalUrl": "/legacy-images/products/525/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 595,
+    "mainDbPath": "catalog/Grass/IMG_0028.jpeg",
+    "mainLocalUrl": "/legacy-images/products/595/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 534,
+    "mainDbPath": "catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460.jpg",
+    "mainLocalUrl": "/legacy-images/products/534/main.jpg",
+    "mainConfidence": "low",
+    "mainStage": "C",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 535,
+    "mainDbPath": "catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460.jpg",
+    "mainLocalUrl": "/legacy-images/products/535/main.jpg",
+    "mainConfidence": "low",
+    "mainStage": "C",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 536,
+    "mainDbPath": "catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460.jpg",
+    "mainLocalUrl": "/legacy-images/products/536/main.jpg",
+    "mainConfidence": "low",
+    "mainStage": "C",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 560,
+    "mainDbPath": "catalog/Grass/IMG_0547.jpg",
+    "mainLocalUrl": "/legacy-images/products/560/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 544,
+    "mainDbPath": "catalog/Timber/0002529_200mm-gate-post.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 545,
+    "mainDbPath": "catalog/Timber/IMG_9097.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 538,
+    "mainDbPath": "catalog/QUADS/1f574831438f4c509a0f26a6ef357d23_pad_550x550.jpg",
+    "mainLocalUrl": "/legacy-images/products/538/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 541,
+    "mainDbPath": "catalog/Trailers/IMG_0565.jpg",
+    "mainLocalUrl": "/legacy-images/products/541/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 579,
+    "mainDbPath": "catalog/Trailers/IMG_9001.jpg",
+    "mainLocalUrl": "/legacy-images/products/579/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 603,
+    "mainDbPath": "catalog/IAE/IMG_4006.jpeg",
+    "mainLocalUrl": "/legacy-images/products/603/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 573,
+    "mainDbPath": "catalog/Walter Watson /IMG_8992.jpg",
+    "mainLocalUrl": "/legacy-images/products/573/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 581,
+    "mainDbPath": "catalog/Trailers/IMG_0075.jpeg",
+    "mainLocalUrl": "/legacy-images/products/581/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 2,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 586,
+    "mainDbPath": "catalog/IAE/IMG_9038.jpg",
+    "mainLocalUrl": "/legacy-images/products/586/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 585,
+    "mainDbPath": "catalog/IAE/IMG_9035.jpg",
+    "mainLocalUrl": "/legacy-images/products/585/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 587,
+    "mainDbPath": "catalog/IAE/IMG_4012.jpeg",
+    "mainLocalUrl": "/legacy-images/products/587/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 588,
+    "mainDbPath": "catalog/IAE/IMG_9041.jpg",
+    "mainLocalUrl": "/legacy-images/products/588/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 589,
+    "mainDbPath": "catalog/IAE/IMG_9042.jpg",
+    "mainLocalUrl": "/legacy-images/products/589/main.jpg",
+    "mainConfidence": "high",
+    "mainStage": "A",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 590,
+    "mainDbPath": null,
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": null,
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 592,
+    "mainDbPath": "catalog/Timber/IMG_9096.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 593,
+    "mainDbPath": null,
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": null,
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 594,
+    "mainDbPath": "catalog/Timber/IMG_9098.jpg",
+    "mainLocalUrl": "/legacy-images/placeholders/equipment.svg",
+    "mainConfidence": "missing",
+    "mainStage": "D",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 598,
+    "mainDbPath": "catalog/Harlequin/IMG_0058.jpeg",
+    "mainLocalUrl": "/legacy-images/products/598/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 1,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 607,
+    "mainDbPath": "catalog/QUADS/IMG_4348.jpeg",
+    "mainLocalUrl": "/legacy-images/products/607/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 3,
+    "galleryMissing": 0
+  },
+  {
+    "productId": 608,
+    "mainDbPath": "catalog/QUADS/IMG_3945.jpeg",
+    "mainLocalUrl": "/legacy-images/products/608/main.jpg",
+    "mainConfidence": "medium",
+    "mainStage": "B",
+    "galleryCount": 0,
+    "galleryMissing": 0
+  }
+]

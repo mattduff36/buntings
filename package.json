@@ -1,0 +1,20 @@
+{
+  "name": "buntings-demo-rebuild",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/demo-a"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=apps/demo-a",
+    "build": "npm run build --workspace=apps/demo-a",
+    "start": "npm run start --workspace=apps/demo-a",
+    "data:parse": "node scripts/opencart-sql-to-json.mjs",
+    "data:images": "node scripts/resolve-images.mjs",
+    "data:enrich": "node scripts/enrich-from-scrape.mjs",
+    "data:build": "npm run data:parse && npm run data:images && npm run data:enrich"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

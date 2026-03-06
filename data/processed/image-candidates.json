@@ -1,0 +1,1955 @@
+[
+  {
+    "productId": 372,
+    "productName": "New Tafe 45 DI OIB Tractor (47hp)",
+    "mainDbPath": "catalog/Tafe/IMG_0416.jpg",
+    "mainMatch": "/catalog/Tafe/IMG_0416-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Tafe/IMG_0416-400x400.jpg",
+      "/catalog/Tafe/IMG_0416-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 423,
+    "productName": "Teagle 5'10\" Single Rotor Pasture Topper",
+    "mainDbPath": "catalog/Toppers /640x440-Topper4.jpg",
+    "mainMatch": "/catalog/Toppers/640x440-Topper4-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Toppers/640x440-Topper4-400x400.jpg",
+      "/catalog/Toppers/640x440-Topper4-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 412,
+    "productName": "2026 TGB LANDMASTER 600 ATV",
+    "mainDbPath": "catalog/QUADS/IMG_4613.jpg",
+    "mainMatch": "/catalog/QUADS/IMG_4613-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/QUADS/IMG_4613-400x400.jpg",
+      "/catalog/QUADS/IMG_4613-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 600,
+    "productName": "Walter Watson 10’ x 30” Balast Roller ",
+    "mainDbPath": "catalog/Walter Watson /IMG_0035.jpeg",
+    "mainMatch": "/catalog/Walter Watson/IMG_0035-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Walter Watson/IMG_0035-400x400.jpg",
+      "/catalog/Walter Watson/IMG_0035-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 381,
+    "productName": "Used 10t Wooton Silage Trailer",
+    "mainDbPath": "catalog/Trailers/IMG_0078.jpeg",
+    "mainMatch": "/catalog/Trailers/IMG_0078-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/IMG_0078-400x400.jpg",
+      "/catalog/Trailers/IMG_0078-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 383,
+    "productName": "",
+    "mainDbPath": "catalog/Walter Watson /Screenshot 2023-03-09 14.07.30.png",
+    "mainMatch": "/catalog/Walter Watson/Screenshot 2023-03-09 14.07.30-700x700.png",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Walter Watson/Screenshot 2023-03-09 14.07.30-400x400.png",
+      "/catalog/Walter Watson/Screenshot 2023-03-09 14.07.30-700x700.png"
+    ]
+  },
+  {
+    "productId": 554,
+    "productName": "New 4ft Transport Tipping Box",
+    "mainDbPath": "catalog/Attachments /IMG_0536.jpg",
+    "mainMatch": "/catalog/Attachments/IMG_0536-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/IMG_0536-400x400.jpg",
+      "/catalog/Attachments/IMG_0536-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 599,
+    "productName": "Used Harlequin 440lt diesel bowser ",
+    "mainDbPath": "catalog/Harlequin/IMG_0056.jpeg",
+    "mainMatch": "/catalog/Harlequin/IMG_0056-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Harlequin/IMG_0056-400x400.jpg",
+      "/catalog/Harlequin/IMG_0056-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 404,
+    "productName": "Useed Quadrogrip 200 bale handler. ",
+    "mainDbPath": "catalog/Attachments /2E6BA020-F9D8-4205-AE49-D40D58D66920.jpeg",
+    "mainMatch": "/catalog/Attachments/2E6BA020-F9D8-4205-AE49-D40D58D66920-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/2E6BA020-F9D8-4205-AE49-D40D58D66920-400x400.jpg",
+      "/catalog/Attachments/2E6BA020-F9D8-4205-AE49-D40D58D66920-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 395,
+    "productName": "New 4’ Land Roller",
+    "mainDbPath": "catalog/Grass/48C9CD56-2063-4938-BCD3-275DE897DCC2.jpeg",
+    "mainMatch": "/catalog/Grass/48C9CD56-2063-4938-BCD3-275DE897DCC2-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/48C9CD56-2063-4938-BCD3-275DE897DCC2-400x400.jpg",
+      "/catalog/Grass/48C9CD56-2063-4938-BCD3-275DE897DCC2-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 225,
+    "productName": " New JFC  ATV Tipping Trailer 400LT ",
+    "mainDbPath": "catalog/Trailers/8B4EA141-5F60-4AD5-91C7-2D7C81AE0629.jpeg",
+    "mainMatch": "/catalog/Trailers/8B4EA141-5F60-4AD5-91C7-2D7C81AE0629-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/8B4EA141-5F60-4AD5-91C7-2D7C81AE0629-400x400.jpg",
+      "/catalog/Trailers/8B4EA141-5F60-4AD5-91C7-2D7C81AE0629-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 228,
+    "productName": "New Walter Watson Bunker Feeder 15ft x 5ft",
+    "mainDbPath": "catalog/Walter Watson /IMG_0041.jpeg",
+    "mainMatch": "/catalog/Walter Watson/IMG_0041-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Walter Watson/IMG_0041-400x400.jpg",
+      "/catalog/Walter Watson/IMG_0041-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 229,
+    "productName": "Walter Watson Calf Creep Feeder 8ft x 6ft",
+    "mainDbPath": "catalog/Walter Watson /IMG_9015.jpg",
+    "mainMatch": "/catalog/Walter Watson/IMG_9015-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Walter Watson/IMG_9015-400x400.jpg",
+      "/catalog/Walter Watson/IMG_9015-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 409,
+    "productName": "TGB BLADE 600LTX ATV",
+    "mainDbPath": "catalog/QUADS/IMG_5053.jpg",
+    "mainMatch": "/catalog/QUADS/IMG_5053-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 3,
+    "mainCandidates": [
+      "/catalog/QUADS/IMG_5053-150x150.jpg",
+      "/catalog/QUADS/IMG_5053-400x400.jpg",
+      "/catalog/QUADS/IMG_5053-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 235,
+    "productName": "IAE Heavy Duty Circular Ring Feeder",
+    "mainDbPath": "catalog/IAE/IMG_9044.jpg",
+    "mainMatch": "/catalog/IAE/IMG_9044-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9044-400x400.jpg",
+      "/catalog/IAE/IMG_9044-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 583,
+    "productName": "Bateman 8ft Cattle Hurdles ",
+    "mainDbPath": "catalog/IAE/IMG_9033 (1).jpg",
+    "mainMatch": "/catalog/IAE/IMG_9033 (1)-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9033 (1)-400x400.jpg",
+      "/catalog/IAE/IMG_9033 (1)-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 237,
+    "productName": "IAE Super Heavy Duty Tombstone feeder",
+    "mainDbPath": "catalog/IAE/IMG_9034.jpg",
+    "mainMatch": "/catalog/IAE/IMG_9034-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9034-400x400.jpg",
+      "/catalog/IAE/IMG_9034-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 239,
+    "productName": "IAE Standard Sheep Circular Feeder",
+    "mainDbPath": "catalog/IAE/IMG_9040.jpg",
+    "mainMatch": "/catalog/IAE/IMG_9040-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9040-400x400.jpg",
+      "/catalog/IAE/IMG_9040-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 247,
+    "productName": "Used CLAAS LEX630 LEXI Combine",
+    "mainDbPath": "catalog/Tractors /55CF207A-701A-4EB3-B625-ED822419EAB5.jpeg",
+    "mainMatch": "/catalog/Tractors/55CF207A-701A-4EB3-B625-ED822419EAB5-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Tractors/55CF207A-701A-4EB3-B625-ED822419EAB5-400x400.jpg",
+      "/catalog/Tractors/55CF207A-701A-4EB3-B625-ED822419EAB5-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 249,
+    "productName": "Used LWC 8ft Bucket Sweeper Brush ",
+    "mainDbPath": "catalog/Attachments /IMG_0053.jpeg",
+    "mainMatch": "/catalog/Attachments/IMG_0053-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/IMG_0053-400x400.jpg",
+      "/catalog/Attachments/IMG_0053-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 405,
+    "productName": "New Pottinger Hit 4.54 Tedder",
+    "mainDbPath": "catalog/Pottinger/IMG_2915.jpg",
+    "mainMatch": "/catalog/Pottinger/IMG_2915-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Pottinger/IMG_2915-400x400.jpg",
+      "/catalog/Pottinger/IMG_2915-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 251,
+    "productName": "Used Armstrong And Holmes 12T Trailer",
+    "mainDbPath": "catalog/Trailers/IMG_0066.jpeg",
+    "mainMatch": "/catalog/Trailers/IMG_0066-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/IMG_0066-400x400.jpg",
+      "/catalog/Trailers/IMG_0066-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 257,
+    "productName": " New Marshall 26' 12T Bale Trailer",
+    "mainDbPath": "catalog/Trailers/IMG_0563.jpg",
+    "mainMatch": "/catalog/Trailers/IMG_0563-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/IMG_0563-400x400.jpg",
+      "/catalog/Trailers/IMG_0563-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 259,
+    "productName": "Walter Watson Single Sided Bull Beef feeder",
+    "mainDbPath": "catalog/Walter Watson /IMG_0036.jpeg",
+    "mainMatch": "/catalog/Walter Watson/IMG_0036-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Walter Watson/IMG_0036-400x400.jpg",
+      "/catalog/Walter Watson/IMG_0036-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 388,
+    "productName": "New Bateman Feed Bins On Skids",
+    "mainDbPath": "catalog/IAE/IMG_0061.jpeg",
+    "mainMatch": "/catalog/IAE/IMG_0061-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_0061-400x400.jpg",
+      "/catalog/IAE/IMG_0061-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 389,
+    "productName": "John Deere 7810",
+    "mainDbPath": "catalog/Tractors /1CF0A942-5448-4A6B-B06F-FC22DE13C6C4.jpeg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 552,
+    "productName": "New Marshall S4 10' x 6' Dropside Tipper Trailer",
+    "mainDbPath": "catalog/Trailers/IMG_0365.jpg",
+    "mainMatch": "/catalog/Trailers/IMG_0365-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/IMG_0365-400x400.jpg",
+      "/catalog/Trailers/IMG_0365-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 425,
+    "productName": "6ft Trailed Chainharrows",
+    "mainDbPath": "catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321.jpg",
+    "mainMatch": "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-700x700.jpg",
+    "mainStage": "C",
+    "mainConfidence": "low",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-400x400.jpg",
+      "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 422,
+    "productName": "Teagle 4ft Single Rotor Pasture Topper",
+    "mainDbPath": "catalog/Toppers /640x440-Topper-5.jpg",
+    "mainMatch": "/catalog/Toppers/640x440-Topper-5-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Toppers/640x440-Topper-5-400x400.jpg",
+      "/catalog/Toppers/640x440-Topper-5-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 319,
+    "productName": "",
+    "mainDbPath": "catalog/Attachments /7C09B88D-5E4F-423C-B7AB-8AEE58472A6A.jpeg",
+    "mainMatch": "/catalog/Attachments/7C09B88D-5E4F-423C-B7AB-8AEE58472A6A-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/7C09B88D-5E4F-423C-B7AB-8AEE58472A6A-400x400.jpg",
+      "/catalog/Attachments/7C09B88D-5E4F-423C-B7AB-8AEE58472A6A-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 429,
+    "productName": "14ft Heavy Grass Single Tine Harrows Mounted",
+    "mainDbPath": "catalog/Grass/IMG_0542.jpg",
+    "mainMatch": "/catalog/Grass/IMG_0542-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/IMG_0542-400x400.jpg",
+      "/catalog/Grass/IMG_0542-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 428,
+    "productName": "12ft Trailed Chainharrows",
+    "mainDbPath": "catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321.jpg",
+    "mainMatch": "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-700x700.jpg",
+    "mainStage": "C",
+    "mainConfidence": "low",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-400x400.jpg",
+      "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 377,
+    "productName": "Twose Silage Grab ",
+    "mainDbPath": "catalog/Attachments /E4EBDB17-AB1F-44CA-BAF7-BE5CA60C3B35.jpeg",
+    "mainMatch": "/catalog/Attachments/E4EBDB17-AB1F-44CA-BAF7-BE5CA60C3B35-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/E4EBDB17-AB1F-44CA-BAF7-BE5CA60C3B35-400x400.jpg",
+      "/catalog/Attachments/E4EBDB17-AB1F-44CA-BAF7-BE5CA60C3B35-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 301,
+    "productName": "Ex Demo Pottinger Top 422 Rake",
+    "mainDbPath": "catalog/Grass/E9AF50FB-7A3C-4B21-8A80-854DBF10CF75.jpeg",
+    "mainMatch": "/catalog/Grass/E9AF50FB-7A3C-4B21-8A80-854DBF10CF75-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/E9AF50FB-7A3C-4B21-8A80-854DBF10CF75-400x400.jpg",
+      "/catalog/Grass/E9AF50FB-7A3C-4B21-8A80-854DBF10CF75-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 553,
+    "productName": "New Pottinger Terradisc 3001 ridgid framed compact disc harrows",
+    "mainDbPath": "catalog/cultivating and drilling/IMG_0209.jpg",
+    "mainMatch": "/catalog/cultivating and drilling/IMG_0209-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/cultivating and drilling/IMG_0209-400x400.jpg",
+      "/catalog/cultivating and drilling/IMG_0209-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 371,
+    "productName": "New 26ft 10T Blue Marshall bale trailer ",
+    "mainDbPath": "catalog/Trailers/IMG_0064.jpeg",
+    "mainMatch": "/catalog/Trailers/IMG_0064-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/IMG_0064-400x400.jpg",
+      "/catalog/Trailers/IMG_0064-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 308,
+    "productName": "",
+    "mainDbPath": "catalog/Attachments /5BD3A381-280A-4925-A83B-02C06D07464B.jpeg",
+    "mainMatch": "/catalog/Attachments/5BD3A381-280A-4925-A83B-02C06D07464B-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/5BD3A381-280A-4925-A83B-02C06D07464B-400x400.jpg",
+      "/catalog/Attachments/5BD3A381-280A-4925-A83B-02C06D07464B-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 399,
+    "productName": "New ATV Flail Mower ",
+    "mainDbPath": "catalog/Grass/0BD3CB52-929A-41DE-A252-022F4DA088D7.jpeg",
+    "mainMatch": "/catalog/Grass/0BD3CB52-929A-41DE-A252-022F4DA088D7-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/0BD3CB52-929A-41DE-A252-022F4DA088D7-400x400.jpg",
+      "/catalog/Grass/0BD3CB52-929A-41DE-A252-022F4DA088D7-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 400,
+    "productName": "New Protech P200s Post Knocker c/w rock spike",
+    "mainDbPath": "catalog/Protech /IMG_0545.jpg",
+    "mainMatch": "/catalog/Protech/IMG_0545-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Protech/IMG_0545-400x400.jpg",
+      "/catalog/Protech/IMG_0545-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 317,
+    "productName": "",
+    "mainDbPath": "catalog/Pottinger/5B788580-CD28-4166-A365-6B8224259B6D.jpeg",
+    "mainMatch": "/catalog/Pottinger/5B788580-CD28-4166-A365-6B8224259B6D-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Pottinger/5B788580-CD28-4166-A365-6B8224259B6D-400x400.jpg",
+      "/catalog/Pottinger/5B788580-CD28-4166-A365-6B8224259B6D-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 543,
+    "productName": "Used Vicon 300 Haybob ",
+    "mainDbPath": "catalog/Grass/IMG_8577.jpg",
+    "mainMatch": "/catalog/Grass/IMG_8577-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/IMG_8577-400x400.jpg",
+      "/catalog/Grass/IMG_8577-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 559,
+    "productName": "New Twose TW60-5 Hedgecutter ",
+    "mainDbPath": "catalog/Attachments /IMG_0535 (1).jpg",
+    "mainMatch": "/catalog/Attachments/IMG_0535 (1)-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/IMG_0535 (1)-400x400.jpg",
+      "/catalog/Attachments/IMG_0535 (1)-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 604,
+    "productName": "William Hackett Mounted Harrows",
+    "mainDbPath": "catalog/Grass/IMG_4015 (1).jpeg",
+    "mainMatch": "/catalog/Grass/IMG_4015 (1)-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/IMG_4015 (1)-400x400.jpg",
+      "/catalog/Grass/IMG_4015 (1)-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 426,
+    "productName": "8ft Trailed Chainharrows",
+    "mainDbPath": "catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321.jpg",
+    "mainMatch": "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-700x700.jpg",
+    "mainStage": "C",
+    "mainConfidence": "low",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-400x400.jpg",
+      "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 576,
+    "productName": "Used Class 680l Liner Rake ",
+    "mainDbPath": "catalog/balers and wrappers/IMG_2927.jpg",
+    "mainMatch": "/catalog/balers and wrappers/IMG_2927-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/balers and wrappers/IMG_2927-400x400.jpg",
+      "/catalog/balers and wrappers/IMG_2927-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 574,
+    "productName": "",
+    "mainDbPath": "catalog/QUADS/IMG_5052.jpg",
+    "mainMatch": "/catalog/QUADS/IMG_5052-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 3,
+    "mainCandidates": [
+      "/catalog/QUADS/IMG_5052-150x150.jpg",
+      "/catalog/QUADS/IMG_5052-400x400.jpg",
+      "/catalog/QUADS/IMG_5052-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 452,
+    "productName": "",
+    "mainDbPath": "catalog/IAE/cradle.jpg",
+    "mainMatch": "/catalog/IAE/cradle-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/cradle-400x400.jpg",
+      "/catalog/IAE/cradle-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 427,
+    "productName": "10ft Trailed Chainharrows",
+    "mainDbPath": "catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321.jpg",
+    "mainMatch": "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-700x700.jpg",
+    "mainStage": "C",
+    "mainConfidence": "low",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-400x400.jpg",
+      "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 386,
+    "productName": "Used Strimech 8’ Pro Ag Bucket",
+    "mainDbPath": "catalog/Attachments /IMG_0522.jpg",
+    "mainMatch": "/catalog/Attachments/IMG_0522-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/IMG_0522-400x400.jpg",
+      "/catalog/Attachments/IMG_0522-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 384,
+    "productName": "Used KRM M35 Fertiliser Spreader ",
+    "mainDbPath": "catalog/Sprayers and spreaders /B756B3A9-C641-45BB-BD12-0E9E570ED880.jpeg",
+    "mainMatch": "/catalog/Sprayers and spreaders/B756B3A9-C641-45BB-BD12-0E9E570ED880-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Sprayers and spreaders/B756B3A9-C641-45BB-BD12-0E9E570ED880-400x400.jpg",
+      "/catalog/Sprayers and spreaders/B756B3A9-C641-45BB-BD12-0E9E570ED880-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 575,
+    "productName": "",
+    "mainDbPath": "catalog/QUADS/IMG_6596.jpg",
+    "mainMatch": "/catalog/QUADS/IMG_6596-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/QUADS/IMG_6596-400x400.jpg",
+      "/catalog/QUADS/IMG_6596-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 339,
+    "productName": "Used Dowdeswell 6 Furrow Plough",
+    "mainDbPath": "catalog/cultivating and drilling/IMG_0513.jpg",
+    "mainMatch": "/catalog/cultivating and drilling/IMG_0513-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/cultivating and drilling/IMG_0513-400x400.jpg",
+      "/catalog/cultivating and drilling/IMG_0513-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 597,
+    "productName": "2ft IAE Galvanised Water Trough",
+    "mainDbPath": "catalog/Water troughs/IMG_0094.jpeg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 570,
+    "productName": "2024 Marshall 16t Grain Trailer",
+    "mainDbPath": "catalog/Trailers/IMG_4732.jpg",
+    "mainMatch": "/catalog/Trailers/IMG_4732-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/IMG_4732-400x400.jpg",
+      "/catalog/Trailers/IMG_4732-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 334,
+    "productName": "Used Slewtic 2 Tine Bale Spike",
+    "mainDbPath": "catalog/Attachments /6401CF06-4237-4D63-830C-B5C9967F47BE.jpeg",
+    "mainMatch": "/catalog/Attachments/6401CF06-4237-4D63-830C-B5C9967F47BE-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/6401CF06-4237-4D63-830C-B5C9967F47BE-400x400.jpg",
+      "/catalog/Attachments/6401CF06-4237-4D63-830C-B5C9967F47BE-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 337,
+    "productName": "4ft Trailed Chainharrows",
+    "mainDbPath": "catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321.jpg",
+    "mainMatch": "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-700x700.jpg",
+    "mainStage": "C",
+    "mainConfidence": "low",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-400x400.jpg",
+      "/catalog/Grass/10ft Heavy Grass Trailed Harrow 2-561x321-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 340,
+    "productName": "Used Bobcat Muck Grab",
+    "mainDbPath": "catalog/Attachments /1FD6CD39-7D24-4CD6-BAC7-93E5CE24D854.jpeg",
+    "mainMatch": "/catalog/Attachments/1FD6CD39-7D24-4CD6-BAC7-93E5CE24D854-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/1FD6CD39-7D24-4CD6-BAC7-93E5CE24D854-400x400.jpg",
+      "/catalog/Attachments/1FD6CD39-7D24-4CD6-BAC7-93E5CE24D854-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 342,
+    "productName": "Used 2 Tine Twin Bale Spike",
+    "mainDbPath": "catalog/Attachments /two tine bale.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 402,
+    "productName": "New Twose Tornado Elite 270",
+    "mainDbPath": "catalog/Grass/6147D18D-94EC-4718-B8DF-663C3E3DD97E.jpeg",
+    "mainMatch": "/catalog/Grass/6147D18D-94EC-4718-B8DF-663C3E3DD97E-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/6147D18D-94EC-4718-B8DF-663C3E3DD97E-400x400.jpg",
+      "/catalog/Grass/6147D18D-94EC-4718-B8DF-663C3E3DD97E-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 346,
+    "productName": "Used Taylor Attachment 3 Point Linkage Lifter",
+    "mainDbPath": "catalog/Attachments /taylor attach.jpg",
+    "mainMatch": "/catalog/Attachments/taylor attach-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/taylor attach-400x400.jpg",
+      "/catalog/Attachments/taylor attach-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 556,
+    "productName": "Used Conor Bale Wrapper",
+    "mainDbPath": "catalog/balers and wrappers/IMG_0510.jpg",
+    "mainMatch": "/catalog/balers and wrappers/IMG_0510-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/balers and wrappers/IMG_0510-400x400.jpg",
+      "/catalog/balers and wrappers/IMG_0510-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 351,
+    "productName": "New Fransguard RV-390 Haybob",
+    "mainDbPath": "catalog/Trailers/A52E74F9-4125-43EB-B6A0-6FD9712E6713.jpeg",
+    "mainMatch": "/catalog/Trailers/A52E74F9-4125-43EB-B6A0-6FD9712E6713-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/A52E74F9-4125-43EB-B6A0-6FD9712E6713-400x400.jpg",
+      "/catalog/Trailers/A52E74F9-4125-43EB-B6A0-6FD9712E6713-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 352,
+    "productName": "2026 TGB 520SL EPS ATV - GREY",
+    "mainDbPath": "catalog/QUADS/C605F58A-29FF-4549-B8EB-FB04BD590384.jpeg",
+    "mainMatch": "/catalog/QUADS/C605F58A-29FF-4549-B8EB-FB04BD590384-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/QUADS/C605F58A-29FF-4549-B8EB-FB04BD590384-400x400.jpg",
+      "/catalog/QUADS/C605F58A-29FF-4549-B8EB-FB04BD590384-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 580,
+    "productName": "Used Ifor Williams LM166 Trailer",
+    "mainDbPath": "catalog/Trailers/IMG_9004.jpg",
+    "mainMatch": "/catalog/Trailers/IMG_9004-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/IMG_9004-400x400.jpg",
+      "/catalog/Trailers/IMG_9004-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 355,
+    "productName": "Ex Demo Pottinger HIT 6.69 Tedder",
+    "mainDbPath": "catalog/Grass/4E0B80C0-CB6D-49B9-BCB7-3B2A801180E4.jpeg",
+    "mainMatch": "/catalog/Grass/4E0B80C0-CB6D-49B9-BCB7-3B2A801180E4-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/4E0B80C0-CB6D-49B9-BCB7-3B2A801180E4-400x400.jpg",
+      "/catalog/Grass/4E0B80C0-CB6D-49B9-BCB7-3B2A801180E4-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 571,
+    "productName": "New LWC 7' Loader Bucket With Euro Brackets ",
+    "mainDbPath": "catalog/Attachments /IMG_8987 (1).jpg",
+    "mainMatch": "/catalog/Attachments/IMG_8987 (1)-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/IMG_8987 (1)-400x400.jpg",
+      "/catalog/Attachments/IMG_8987 (1)-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 413,
+    "productName": "2023 Harry West 10T  Maelstrom Muck Spreader c/w slurry door",
+    "mainDbPath": "catalog/Arable /IMG_8004.jpg",
+    "mainMatch": "/catalog/Arable/IMG_8004-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Arable/IMG_8004-400x400.jpg",
+      "/catalog/Arable/IMG_8004-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 567,
+    "productName": "John Deere M740 Trailed Sprayer ",
+    "mainDbPath": "catalog/Sprayers and spreaders /IMG_0616.jpg",
+    "mainMatch": "/catalog/Sprayers and spreaders/IMG_0616-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Sprayers and spreaders/IMG_0616-400x400.jpg",
+      "/catalog/Sprayers and spreaders/IMG_0616-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 380,
+    "productName": "Used MF 3 way tipper 4t trailer",
+    "mainDbPath": "catalog/Trailers/FA81C6BB-7E50-4DF9-AA1C-87999592F1F5.jpeg",
+    "mainMatch": "/catalog/Trailers/FA81C6BB-7E50-4DF9-AA1C-87999592F1F5-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/FA81C6BB-7E50-4DF9-AA1C-87999592F1F5-400x400.jpg",
+      "/catalog/Trailers/FA81C6BB-7E50-4DF9-AA1C-87999592F1F5-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 364,
+    "productName": "Used 2015 Phoenix 3 .0 Challenger Cultivator ",
+    "mainDbPath": "catalog/Arable /E672B5A5-78DD-4F84-9EC4-4D8F5E47650E.jpeg",
+    "mainMatch": "/catalog/Arable/E672B5A5-78DD-4F84-9EC4-4D8F5E47650E-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Arable/E672B5A5-78DD-4F84-9EC4-4D8F5E47650E-400x400.jpg",
+      "/catalog/Arable/E672B5A5-78DD-4F84-9EC4-4D8F5E47650E-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 601,
+    "productName": "New Harry West 14ft Grain Trailer",
+    "mainDbPath": "catalog/Trailers/IMG_0932.jpeg",
+    "mainMatch": "/catalog/Trailers/IMG_0932-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/IMG_0932-400x400.jpg",
+      "/catalog/Trailers/IMG_0932-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 606,
+    "productName": "MX V500 Manubal Bale Handler / Grab",
+    "mainDbPath": "catalog/Attachments /IMG_4017.jpeg",
+    "mainMatch": "/catalog/Attachments/IMG_4017-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/IMG_4017-400x400.jpg",
+      "/catalog/Attachments/IMG_4017-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 430,
+    "productName": "For mowing, swath wilting, raking and stalk grinding machinery.",
+    "mainDbPath": "catalog/Logo/FRANSGUARD.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 431,
+    "productName": "For  muck spreaders, bale, dump, dropside, silage/grain and feed trailers.",
+    "mainDbPath": "catalog/Logo/MT_Brand-Logo_P_FC_300DPI.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 432,
+    "productName": "For augers, grain blowers and aeration.",
+    "mainDbPath": "catalog/Logo/astwell.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 433,
+    "productName": "For hedgecutters, flail mowers, rollers and aerators.",
+    "mainDbPath": "catalog/Logo/twose.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 434,
+    "productName": "For muck spreaders, bale processors, grassland and fert spreaders.",
+    "mainDbPath": "catalog/Logo/teagle.png",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 435,
+    "productName": "For all types of post knockers.",
+    "mainDbPath": "catalog/Logo/protech.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 436,
+    "productName": "For weather protection, ventilation & access solutions for healthy livestock.",
+    "mainDbPath": "catalog/Logo/galebreaker.png",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 437,
+    "productName": "For feeding equipment, rollers & aerators.",
+    "mainDbPath": "catalog/Logo/Screenshot 2023-04-03 09.19.17.png",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 438,
+    "productName": "For slurry tankers, industrial tankers, mowers and flails. ",
+    "mainDbPath": "catalog/Logo/major.png",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 439,
+    "productName": "For fertiliser spreaders, power harrows, cultivations and mowers.",
+    "mainDbPath": "catalog/Logo/krm.gif",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 440,
+    "productName": "For Tafe tractors. ",
+    "mainDbPath": "catalog/Logo/Tafe.png",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 441,
+    "productName": "For bale handling, grassland, subsoilers, yard scapers and post hammers.",
+    "mainDbPath": "catalog/Logo/browns.png",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 442,
+    "productName": "For agricultural & equestrian equipment.",
+    "mainDbPath": "catalog/Logo/iae logo.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 443,
+    "productName": "For ATV's",
+    "mainDbPath": "catalog/Logo/tgb.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 444,
+    "productName": "For cattle & sheep equipment",
+    "mainDbPath": "catalog/Logo/bateman.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 445,
+    "productName": "For buckets, forks, grabs and spikes.",
+    "mainDbPath": "catalog/Logo/strimech.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 446,
+    "productName": "For all grassland and arable equipment.",
+    "mainDbPath": "catalog/Logo/pottinger logo.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 447,
+    "productName": "For muck spreaders, grain/ silage trailers and flat/bale trailers.",
+    "mainDbPath": "catalog/Logo/Harry West.png",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 448,
+    "productName": "For safety and non safety footwear.",
+    "mainDbPath": "catalog/Logo/buckler logo.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 449,
+    "productName": "For tractor, telehandler and skid steer attachments.",
+    "mainDbPath": "catalog/Logo/download.png",
+    "mainMatch": "/catalog/JFC/download-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/JFC/download-400x400.jpg",
+      "/catalog/JFC/download-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 450,
+    "productName": "New Teagle 180 Dynamo Finish Mower",
+    "mainDbPath": "catalog/Toppers /640x440-Dynamo-120.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 451,
+    "productName": "New Atv Sprayer with wand and 1.8m boom 50L tank",
+    "mainDbPath": "catalog/Sprayers and spreaders /gwaza.jpg",
+    "mainMatch": "/catalog/Sprayers and spreaders/gwaza-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Sprayers and spreaders/gwaza-400x400.jpg",
+      "/catalog/Sprayers and spreaders/gwaza-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 453,
+    "productName": "IAE 6ft hook over hayrack",
+    "mainDbPath": "catalog/IAE/IMG_9031.jpg",
+    "mainMatch": "/catalog/IAE/IMG_9031-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9031-400x400.jpg",
+      "/catalog/IAE/IMG_9031-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 454,
+    "productName": "4ft IAE Galvanised Water Trough",
+    "mainDbPath": "catalog/Water troughs/IMG_0092.jpeg",
+    "mainMatch": "/catalog/Water troughs/IMG_0092-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Water troughs/IMG_0092-400x400.jpg",
+      "/catalog/Water troughs/IMG_0092-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 455,
+    "productName": "3ft IAE Galvanised Water Trough",
+    "mainDbPath": "catalog/Water troughs/IMG_0093.jpeg",
+    "mainMatch": "/catalog/Water troughs/IMG_0093-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Water troughs/IMG_0093-400x400.jpg",
+      "/catalog/Water troughs/IMG_0093-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 456,
+    "productName": "5ft IAE Galvanised Water Trough",
+    "mainDbPath": "catalog/IAE/s-l1600.jpg",
+    "mainMatch": "/catalog/IAE/s-l1600-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/s-l1600-400x400.jpg",
+      "/catalog/IAE/s-l1600-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 457,
+    "productName": "6ft IAE Galvanised Water Trough",
+    "mainDbPath": "catalog/IAE/s-l1600.jpg",
+    "mainMatch": "/catalog/IAE/s-l1600-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/s-l1600-400x400.jpg",
+      "/catalog/IAE/s-l1600-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 458,
+    "productName": "8ft IAE Galvanised Water Trough",
+    "mainDbPath": "catalog/IAE/s-l1600.jpg",
+    "mainMatch": "/catalog/IAE/s-l1600-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/s-l1600-400x400.jpg",
+      "/catalog/IAE/s-l1600-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 459,
+    "productName": "DT10 JFC Plastic Water Trough",
+    "mainDbPath": "catalog/Water troughs/IMG_0084.jpeg",
+    "mainMatch": "/catalog/Water troughs/IMG_0084-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Water troughs/IMG_0084-400x400.jpg",
+      "/catalog/Water troughs/IMG_0084-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 460,
+    "productName": "DT20 JFC Plastic Water Trough",
+    "mainDbPath": "catalog/Water troughs/IMG_0085.jpeg",
+    "mainMatch": "/catalog/Water troughs/IMG_0085-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Water troughs/IMG_0085-400x400.jpg",
+      "/catalog/Water troughs/IMG_0085-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 461,
+    "productName": "DT30 Fast Fill JFC Plastic Water Trough",
+    "mainDbPath": "catalog/Water troughs/IMG_0087.jpeg",
+    "mainMatch": "/catalog/Water troughs/IMG_0087-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Water troughs/IMG_0087-400x400.jpg",
+      "/catalog/Water troughs/IMG_0087-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 462,
+    "productName": "DT70 JFC Plastic Water Trough",
+    "mainDbPath": "catalog/Water troughs/IMG_0086.jpeg",
+    "mainMatch": "/catalog/Water troughs/IMG_0086-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Water troughs/IMG_0086-400x400.jpg",
+      "/catalog/Water troughs/IMG_0086-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 463,
+    "productName": "DT40 JFC Plastic Water Trough",
+    "mainDbPath": "catalog/Water troughs/IMG_0086.jpeg",
+    "mainMatch": "/catalog/Water troughs/IMG_0086-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Water troughs/IMG_0086-400x400.jpg",
+      "/catalog/Water troughs/IMG_0086-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 464,
+    "productName": "DT350 JFC Plastic Water Trough",
+    "mainDbPath": "catalog/JFC/download.jpeg",
+    "mainMatch": "/catalog/JFC/download-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/JFC/download-400x400.jpg",
+      "/catalog/JFC/download-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 471,
+    "productName": "IAE 3ft Hook over hayrack",
+    "mainDbPath": "catalog/IAE/IMG_9030.jpg",
+    "mainMatch": "/catalog/IAE/IMG_9030-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9030-400x400.jpg",
+      "/catalog/IAE/IMG_9030-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 472,
+    "productName": "",
+    "mainDbPath": "catalog/IAE/IMG_9037.jpg",
+    "mainMatch": "/catalog/IAE/IMG_9037-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9037-400x400.jpg",
+      "/catalog/IAE/IMG_9037-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 473,
+    "productName": "",
+    "mainDbPath": "catalog/IAE/IMG_9029.jpg",
+    "mainMatch": "/catalog/IAE/IMG_9029-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9029-400x400.jpg",
+      "/catalog/IAE/IMG_9029-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 474,
+    "productName": "",
+    "mainDbPath": "catalog/JFC/IMG_8956.jpg",
+    "mainMatch": "/catalog/JFC/IMG_8956-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/JFC/IMG_8956-400x400.jpg",
+      "/catalog/JFC/IMG_8956-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 596,
+    "productName": "DT15FF Fast Fill JFC Plastic Water Trough",
+    "mainDbPath": "catalog/Water troughs/IMG_0083.jpeg",
+    "mainMatch": "/catalog/Water troughs/IMG_0083-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Water troughs/IMG_0083-400x400.jpg",
+      "/catalog/Water troughs/IMG_0083-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 478,
+    "productName": "",
+    "mainDbPath": "catalog/Timber/127.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 546,
+    "productName": "",
+    "mainDbPath": "catalog/Timber/fencerail_778x.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 547,
+    "productName": "",
+    "mainDbPath": "catalog/Timber/P1010085.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 548,
+    "productName": "",
+    "mainDbPath": "catalog/Timber/Large-Gate-Posts.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 549,
+    "productName": "",
+    "mainDbPath": "catalog/Timber/thumb_2406_default_zoomed.jpeg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 550,
+    "productName": "",
+    "mainDbPath": "catalog/Timber/pointed-peg-450mm-x-48mm-x-48mm-p465-1778_zoom.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 551,
+    "productName": "",
+    "mainDbPath": "catalog/Timber/sleepersbundle__93687.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 561,
+    "productName": "Used New Holland BB920 Baler",
+    "mainDbPath": "catalog/Grass/IMG_0553.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 605,
+    "productName": "MX Multibumper Toolbox",
+    "mainDbPath": "catalog/Attachments /IMG_4018.jpeg",
+    "mainMatch": "/catalog/Attachments/IMG_4018-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/IMG_4018-400x400.jpg",
+      "/catalog/Attachments/IMG_4018-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 568,
+    "productName": "Used John Deere 854 Round Baler",
+    "mainDbPath": "catalog/balers and wrappers/IMG_0624.jpg",
+    "mainMatch": "/catalog/balers and wrappers/IMG_0624-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/balers and wrappers/IMG_0624-400x400.jpg",
+      "/catalog/balers and wrappers/IMG_0624-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 569,
+    "productName": "New Protech P18 Post Knocker on Volvo Brackets",
+    "mainDbPath": "catalog/Protech /IMG_0026.jpeg",
+    "mainMatch": "/catalog/Protech/IMG_0026-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Protech/IMG_0026-400x400.jpg",
+      "/catalog/Protech/IMG_0026-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 509,
+    "productName": "1.9 Ton Volvo Mini Digger To Hire",
+    "mainDbPath": "catalog/Plant Hire/IMG_5321.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 510,
+    "productName": "3 Ton Volvo Mini Digger To HIre",
+    "mainDbPath": "catalog/Plant Hire/IMG_5324.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 511,
+    "productName": "Tractor & Operator",
+    "mainDbPath": "catalog/Plant Hire/IMG_7841.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 512,
+    "productName": "Telehandler & Operator",
+    "mainDbPath": "catalog/Plant Hire/IMG_3772.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 558,
+    "productName": "Used Novacat 352 Rear Mounted Mower",
+    "mainDbPath": "catalog/Grass/IMG_0534.jpg",
+    "mainMatch": "/catalog/Grass/IMG_0534-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/IMG_0534-400x400.jpg",
+      "/catalog/Grass/IMG_0534-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 514,
+    "productName": "Ride On Roller To Hire",
+    "mainDbPath": "catalog/Plant Hire/IMG_5326.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 516,
+    "productName": "Haulage ",
+    "mainDbPath": "catalog/Plant Hire/IMG_3301.JPG",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 518,
+    "productName": "Jarmet PTO Driven Pan MIxer",
+    "mainDbPath": "catalog/Attachments /IMG_5340.jpg",
+    "mainMatch": "/catalog/Attachments/IMG_5340-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/IMG_5340-400x400.jpg",
+      "/catalog/Attachments/IMG_5340-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 519,
+    "productName": "Jarmet Hydraulic Driven Pan MIxer",
+    "mainDbPath": "catalog/Attachments /IMG_5360.jpg",
+    "mainMatch": "/catalog/Attachments/IMG_5360-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/IMG_5360-400x400.jpg",
+      "/catalog/Attachments/IMG_5360-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 521,
+    "productName": "New MInos 4 Rotor Tedder",
+    "mainDbPath": "catalog/Grass/IMG_5364.jpg",
+    "mainMatch": "/catalog/Grass/IMG_5364-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/IMG_5364-400x400.jpg",
+      "/catalog/Grass/IMG_5364-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 577,
+    "productName": "",
+    "mainDbPath": "catalog/Attachments /IMG_3702.jpg",
+    "mainMatch": "/catalog/Attachments/IMG_3702-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Attachments/IMG_3702-400x400.jpg",
+      "/catalog/Attachments/IMG_3702-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 524,
+    "productName": "New Jarmet 4m Galvanised Hydraulic Drag Harrows",
+    "mainDbPath": "catalog/Grass/IMG_0538.jpg",
+    "mainMatch": "/catalog/Grass/IMG_0538-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/IMG_0538-400x400.jpg",
+      "/catalog/Grass/IMG_0538-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 525,
+    "productName": "New Jarmet 5m Galvanised Hydraulic Drag Harrows",
+    "mainDbPath": "catalog/Grass/IMG_0537.jpg",
+    "mainMatch": "/catalog/Grass/IMG_0537-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/IMG_0537-400x400.jpg",
+      "/catalog/Grass/IMG_0537-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 595,
+    "productName": "5ft Paddock Grass Roller",
+    "mainDbPath": "catalog/Grass/IMG_0028.jpeg",
+    "mainMatch": "/catalog/Grass/IMG_0028-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/IMG_0028-400x400.jpg",
+      "/catalog/Grass/IMG_0028-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 534,
+    "productName": "IAE Hook Over Calf/ Sheep Trough 900mm",
+    "mainDbPath": "catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460.jpg",
+    "mainMatch": "/catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460-700x700.jpg",
+    "mainStage": "C",
+    "mainConfidence": "low",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460-400x400.jpg",
+      "/catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 535,
+    "productName": "IAE Hook Over Calf/ Sheep Trough 1250mm",
+    "mainDbPath": "catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460.jpg",
+    "mainMatch": "/catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460-700x700.jpg",
+    "mainStage": "C",
+    "mainConfidence": "low",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460-400x400.jpg",
+      "/catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 536,
+    "productName": "IAE Hook Over Calf/ Sheep Trough 1800mm",
+    "mainDbPath": "catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460.jpg",
+    "mainMatch": "/catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460-700x700.jpg",
+    "mainStage": "C",
+    "mainConfidence": "low",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460-400x400.jpg",
+      "/catalog/IAE/F035-2006-31-HOOK-OVER-CALF-SHEEP-TROUGH-862x460-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 560,
+    "productName": "New Major MJ30-560 Mulcher Mower",
+    "mainDbPath": "catalog/Grass/IMG_0547.jpg",
+    "mainMatch": "/catalog/Grass/IMG_0547-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Grass/IMG_0547-400x400.jpg",
+      "/catalog/Grass/IMG_0547-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 544,
+    "productName": "",
+    "mainDbPath": "catalog/Timber/0002529_200mm-gate-post.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 545,
+    "productName": "",
+    "mainDbPath": "catalog/Timber/IMG_9097.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 538,
+    "productName": "TGB Blade 1000LT Cargo Box",
+    "mainDbPath": "catalog/QUADS/1f574831438f4c509a0f26a6ef357d23_pad_550x550.jpg",
+    "mainMatch": "/catalog/QUADS/1f574831438f4c509a0f26a6ef357d23_pad_550x550-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/QUADS/1f574831438f4c509a0f26a6ef357d23_pad_550x550-400x400.jpg",
+      "/catalog/QUADS/1f574831438f4c509a0f26a6ef357d23_pad_550x550-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 541,
+    "productName": "New 16' x 6' Walter Watson Feed Trailer c/w Wood Floor + Retractable Drawbar",
+    "mainDbPath": "catalog/Trailers/IMG_0565.jpg",
+    "mainMatch": "/catalog/Trailers/IMG_0565-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/IMG_0565-400x400.jpg",
+      "/catalog/Trailers/IMG_0565-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 579,
+    "productName": " Nugent  P3118H Plant Trailer",
+    "mainDbPath": "catalog/Trailers/IMG_9001.jpg",
+    "mainMatch": "/catalog/Trailers/IMG_9001-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/IMG_9001-400x400.jpg",
+      "/catalog/Trailers/IMG_9001-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 603,
+    "productName": "IAE 2 in 1 portable trough",
+    "mainDbPath": "catalog/IAE/IMG_4006.jpeg",
+    "mainMatch": "/catalog/IAE/IMG_4006-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_4006-400x400.jpg",
+      "/catalog/IAE/IMG_4006-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 573,
+    "productName": "New 16' x 6' Walter Watson Feed Trailer c/w Timber Floor",
+    "mainDbPath": "catalog/Walter Watson /IMG_8992.jpg",
+    "mainMatch": "/catalog/Walter Watson/IMG_8992-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Walter Watson/IMG_8992-400x400.jpg",
+      "/catalog/Walter Watson/IMG_8992-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 581,
+    "productName": "Used Harry West 12T Grain Trailer ",
+    "mainDbPath": "catalog/Trailers/IMG_0075.jpeg",
+    "mainMatch": "/catalog/Trailers/IMG_0075-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Trailers/IMG_0075-400x400.jpg",
+      "/catalog/Trailers/IMG_0075-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 586,
+    "productName": "IAE Galvanised Diagonal Feed Fence Gate Unit",
+    "mainDbPath": "catalog/IAE/IMG_9038.jpg",
+    "mainMatch": "/catalog/IAE/IMG_9038-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9038-400x400.jpg",
+      "/catalog/IAE/IMG_9038-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 585,
+    "productName": "IAE 14'6\" Galvanised Diagonal Feed Fence/ Barrier",
+    "mainDbPath": "catalog/IAE/IMG_9035.jpg",
+    "mainMatch": "/catalog/IAE/IMG_9035-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9035-400x400.jpg",
+      "/catalog/IAE/IMG_9035-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 587,
+    "productName": "IAE Hook On Cattle Trough",
+    "mainDbPath": "catalog/IAE/IMG_4012.jpeg",
+    "mainMatch": "/catalog/IAE/IMG_4012-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_4012-400x400.jpg",
+      "/catalog/IAE/IMG_4012-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 588,
+    "productName": "6' Interlocking Sheep Hurdles ",
+    "mainDbPath": "catalog/IAE/IMG_9041.jpg",
+    "mainMatch": "/catalog/IAE/IMG_9041-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9041-400x400.jpg",
+      "/catalog/IAE/IMG_9041-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 589,
+    "productName": "IAE sheep troughs",
+    "mainDbPath": "catalog/IAE/IMG_9042.jpg",
+    "mainMatch": "/catalog/IAE/IMG_9042-700x700.jpg",
+    "mainStage": "A",
+    "mainConfidence": "high",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/IAE/IMG_9042-400x400.jpg",
+      "/catalog/IAE/IMG_9042-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 590,
+    "productName": "Sheep Hurdles with Rods ",
+    "mainDbPath": null,
+    "mainMatch": null,
+    "mainStage": null,
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 592,
+    "productName": "",
+    "mainDbPath": "catalog/Timber/IMG_9096.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 593,
+    "productName": "",
+    "mainDbPath": null,
+    "mainMatch": null,
+    "mainStage": null,
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 594,
+    "productName": "",
+    "mainDbPath": "catalog/Timber/IMG_9098.jpg",
+    "mainMatch": null,
+    "mainStage": "D",
+    "mainConfidence": null,
+    "mainCandidateCount": 0,
+    "mainCandidates": []
+  },
+  {
+    "productId": 598,
+    "productName": "Harlequin 2500lt fuel point",
+    "mainDbPath": "catalog/Harlequin/IMG_0058.jpeg",
+    "mainMatch": "/catalog/Harlequin/IMG_0058-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/Harlequin/IMG_0058-400x400.jpg",
+      "/catalog/Harlequin/IMG_0058-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 607,
+    "productName": "New Segway UT6 Premium Full Cab ",
+    "mainDbPath": "catalog/QUADS/IMG_4348.jpeg",
+    "mainMatch": "/catalog/QUADS/IMG_4348-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/QUADS/IMG_4348-400x400.jpg",
+      "/catalog/QUADS/IMG_4348-700x700.jpg"
+    ]
+  },
+  {
+    "productId": 608,
+    "productName": "2026 10TEN 200U ATV",
+    "mainDbPath": "catalog/QUADS/IMG_3945.jpeg",
+    "mainMatch": "/catalog/QUADS/IMG_3945-700x700.jpg",
+    "mainStage": "B",
+    "mainConfidence": "medium",
+    "mainCandidateCount": 2,
+    "mainCandidates": [
+      "/catalog/QUADS/IMG_3945-400x400.jpg",
+      "/catalog/QUADS/IMG_3945-700x700.jpg"
+    ]
+  }
+]

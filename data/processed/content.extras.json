@@ -1,0 +1,54 @@
+{
+  "heroSlides": [
+    {
+      "imageSrc": "image/cache/catalog/home%20page/Blade520SLGallery-22-scaled%20(2)-2500x2500.jpg",
+      "alt": "tgb"
+    },
+    {
+      "imageSrc": "image/cache/catalog/home%20page/NOVACAT_302_CF_Steyr_Luftaufnahme-13_sat%20(1)-2500x2500.jpg",
+      "alt": "Agricultural Machinery"
+    },
+    {
+      "imageSrc": "image/cache/catalog/home%20page/tctuk1000033%20(1)-2500x2500.jpg",
+      "alt": "tafe"
+    },
+    {
+      "imageSrc": "image/cache/catalog/home%20page/327985682_711633690400533_5936553521631088302_n%20(1)-2500x2500.jpg",
+      "alt": "twose "
+    },
+    {
+      "imageSrc": "image/cache/catalog/home%20page/318660281_517113570458076_6233214550207342017_n%20(1)-2500x2500.jpg",
+      "alt": "major"
+    }
+  ],
+  "footerInfo": {
+    "address": "Franderground Farm\nKirkby Lane\nPinxton\nNottinghamshire\nNG16 6JB ",
+    "phone": "01623 752158",
+    "mobile": "07970061595",
+    "email": "sales@buntingsagri.co.uk",
+    "storeName": "Buntings Agri Ltd."
+  },
+  "priceListPages": [
+    {
+      "title": "Timber Price List",
+      "hasContent": true,
+      "snippet": "Timber Price List All items are in stock. No minimum quantity. JULY 2025 - INCLUDES VAT Stakes 3-4” 7' Peeled Stakes £6.25 100mm x 1.65mt ½ Round Machine Stakes £3.90 60mm x 1.65mt Machined Stakes £3.48 75mm x 1.65mt Machined Stakes £4.20 75mm x 1.8mt Machined Stakes £4.50 85mm x 1.65mt Machined Stakes £5.45 85mm x 1.8mt Machined Stakes £5.60 106mm x 1.8mt UC4 Machined Stakes £6.72 100mm x 2.40mt UC4 Machined Stakes £9.20 Half Round Rails & Jump Poles 100mm x 3.6 mt 1/2 Round Rails £8.50 100mm x"
+    },
+    {
+      "title": "Metal & Wooden Gate Price Lists",
+      "hasContent": true,
+      "snippet": "Metal & Wooden Gate Price Lists MAY 2025 - INCLUDES VAT GALV 7 BAR METAL GATES 16ft Gate £178.00 15ft Gate £165.00 14ft Gate £162.00 13ft Gate £160.00 12ft Gate £135.00 11ft Gate £134.00 10ft Gate £128.00 9ft Gate £125.50 8ft Gate £122.00 7ft Gate £114.00 6ft Gate £105.00 5ft Gate £99.50 4ft Gate £89.00 3ft Gate £82.00 HALF MESH METAL GATES 16ft Gate £208.00 15ft Gate £196.00 14ft Gate £188.00 13ft Gate £180.00 12ft Gate £168.00 11ft Gate £160.00 10ft Gate £152.00 9ft Gate £151.00 8ft Gate £150."
+    },
+    {
+      "title": "Stocknetting & Wire",
+      "hasContent": true,
+      "snippet": "Stocknetting & Wire NETTING 50m Stock Netting C8/80/15 £72.00 HT Stock Netting 100m HT8/80/15 £159 Horse Netting 50mt HT13/122/7.5 £216 Deer Netting 100m HT13/190/15 £288 50m Rabbit/ Chicken Netting £84 2\" x 2\" Weld Mesh 25m £78.00 Double Strand Barbed Wire 200m £49.40 Plain Wire 2.5mm x 5kg Plain Wire £20.75 2.5mm x 25kg Plain Wire £67.45 3.15mm x 5kg Plain Wire £20.75 3.15mm x 25kg Plain Wire £71.40"
+    }
+  ],
+  "navCategories": [
+    "Machinery & Equipment",
+    "Livestock Feeding & Handling",
+    "Fencing Price Lists"
+  ],
+  "extractedAt": "2026-03-06T00:20:18.614Z"
+}

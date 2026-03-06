@@ -1,0 +1,288 @@
+[
+  {
+    "productId": 389,
+    "productName": "John Deere 7810",
+    "dbPath": "catalog/Tractors /1CF0A942-5448-4A6B-B06F-FC22DE13C6C4.jpeg",
+    "type": "main"
+  },
+  {
+    "productId": 389,
+    "productName": "John Deere 7810",
+    "dbPath": "catalog/Tractors /B229DA48-AA91-46BC-8B39-8BF22A75F4DA.jpeg",
+    "type": "gallery",
+    "index": 0
+  },
+  {
+    "productId": 389,
+    "productName": "John Deere 7810",
+    "dbPath": "catalog/Tractors /5E887F28-77E1-4A6C-8AA3-523467AEFDAC.jpeg",
+    "type": "gallery",
+    "index": 1
+  },
+  {
+    "productId": 597,
+    "productName": "2ft IAE Galvanised Water Trough",
+    "dbPath": "catalog/Water troughs/IMG_0094.jpeg",
+    "type": "main"
+  },
+  {
+    "productId": 342,
+    "productName": "Used 2 Tine Twin Bale Spike",
+    "dbPath": "catalog/Attachments /two tine bale.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 413,
+    "productName": "2023 Harry West 10T  Maelstrom Muck Spreader c/w slurry door",
+    "dbPath": "catalog/Arable /Screenshot 2023-08-30 10.47.34.png",
+    "type": "gallery",
+    "index": 1
+  },
+  {
+    "productId": 430,
+    "productName": "For mowing, swath wilting, raking and stalk grinding machinery.",
+    "dbPath": "catalog/Logo/FRANSGUARD.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 431,
+    "productName": "For  muck spreaders, bale, dump, dropside, silage/grain and feed trailers.",
+    "dbPath": "catalog/Logo/MT_Brand-Logo_P_FC_300DPI.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 432,
+    "productName": "For augers, grain blowers and aeration.",
+    "dbPath": "catalog/Logo/astwell.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 433,
+    "productName": "For hedgecutters, flail mowers, rollers and aerators.",
+    "dbPath": "catalog/Logo/twose.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 434,
+    "productName": "For muck spreaders, bale processors, grassland and fert spreaders.",
+    "dbPath": "catalog/Logo/teagle.png",
+    "type": "main"
+  },
+  {
+    "productId": 435,
+    "productName": "For all types of post knockers.",
+    "dbPath": "catalog/Logo/protech.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 436,
+    "productName": "For weather protection, ventilation & access solutions for healthy livestock.",
+    "dbPath": "catalog/Logo/galebreaker.png",
+    "type": "main"
+  },
+  {
+    "productId": 437,
+    "productName": "For feeding equipment, rollers & aerators.",
+    "dbPath": "catalog/Logo/Screenshot 2023-04-03 09.19.17.png",
+    "type": "main"
+  },
+  {
+    "productId": 438,
+    "productName": "For slurry tankers, industrial tankers, mowers and flails. ",
+    "dbPath": "catalog/Logo/major.png",
+    "type": "main"
+  },
+  {
+    "productId": 439,
+    "productName": "For fertiliser spreaders, power harrows, cultivations and mowers.",
+    "dbPath": "catalog/Logo/krm.gif",
+    "type": "main"
+  },
+  {
+    "productId": 440,
+    "productName": "For Tafe tractors. ",
+    "dbPath": "catalog/Logo/Tafe.png",
+    "type": "main"
+  },
+  {
+    "productId": 441,
+    "productName": "For bale handling, grassland, subsoilers, yard scapers and post hammers.",
+    "dbPath": "catalog/Logo/browns.png",
+    "type": "main"
+  },
+  {
+    "productId": 442,
+    "productName": "For agricultural & equestrian equipment.",
+    "dbPath": "catalog/Logo/iae logo.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 443,
+    "productName": "For ATV's",
+    "dbPath": "catalog/Logo/tgb.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 444,
+    "productName": "For cattle & sheep equipment",
+    "dbPath": "catalog/Logo/bateman.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 445,
+    "productName": "For buckets, forks, grabs and spikes.",
+    "dbPath": "catalog/Logo/strimech.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 446,
+    "productName": "For all grassland and arable equipment.",
+    "dbPath": "catalog/Logo/pottinger logo.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 447,
+    "productName": "For muck spreaders, grain/ silage trailers and flat/bale trailers.",
+    "dbPath": "catalog/Logo/Harry West.png",
+    "type": "main"
+  },
+  {
+    "productId": 448,
+    "productName": "For safety and non safety footwear.",
+    "dbPath": "catalog/Logo/buckler logo.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 450,
+    "productName": "New Teagle 180 Dynamo Finish Mower",
+    "dbPath": "catalog/Toppers /640x440-Dynamo-120.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 478,
+    "productName": "",
+    "dbPath": "catalog/Timber/127.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 546,
+    "productName": "",
+    "dbPath": "catalog/Timber/fencerail_778x.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 547,
+    "productName": "",
+    "dbPath": "catalog/Timber/P1010085.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 548,
+    "productName": "",
+    "dbPath": "catalog/Timber/Large-Gate-Posts.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 549,
+    "productName": "",
+    "dbPath": "catalog/Timber/thumb_2406_default_zoomed.jpeg",
+    "type": "main"
+  },
+  {
+    "productId": 550,
+    "productName": "",
+    "dbPath": "catalog/Timber/pointed-peg-450mm-x-48mm-x-48mm-p465-1778_zoom.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 551,
+    "productName": "",
+    "dbPath": "catalog/Timber/sleepersbundle__93687.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 561,
+    "productName": "Used New Holland BB920 Baler",
+    "dbPath": "catalog/Grass/IMG_0553.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 509,
+    "productName": "1.9 Ton Volvo Mini Digger To Hire",
+    "dbPath": "catalog/Plant Hire/IMG_5321.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 510,
+    "productName": "3 Ton Volvo Mini Digger To HIre",
+    "dbPath": "catalog/Plant Hire/IMG_5324.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 511,
+    "productName": "Tractor & Operator",
+    "dbPath": "catalog/Plant Hire/IMG_7841.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 511,
+    "productName": "Tractor & Operator",
+    "dbPath": "catalog/Plant Hire/IMG_4379.jpg",
+    "type": "gallery",
+    "index": 0
+  },
+  {
+    "productId": 512,
+    "productName": "Telehandler & Operator",
+    "dbPath": "catalog/Plant Hire/IMG_3772.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 514,
+    "productName": "Ride On Roller To Hire",
+    "dbPath": "catalog/Plant Hire/IMG_5326.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 516,
+    "productName": "Haulage ",
+    "dbPath": "catalog/Plant Hire/IMG_3301.JPG",
+    "type": "main"
+  },
+  {
+    "productId": 544,
+    "productName": "",
+    "dbPath": "catalog/Timber/0002529_200mm-gate-post.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 545,
+    "productName": "",
+    "dbPath": "catalog/Timber/IMG_9097.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 590,
+    "productName": "Sheep Hurdles with Rods ",
+    "dbPath": null,
+    "type": "main"
+  },
+  {
+    "productId": 592,
+    "productName": "",
+    "dbPath": "catalog/Timber/IMG_9096.jpg",
+    "type": "main"
+  },
+  {
+    "productId": 593,
+    "productName": "",
+    "dbPath": null,
+    "type": "main"
+  },
+  {
+    "productId": 594,
+    "productName": "",
+    "dbPath": "catalog/Timber/IMG_9098.jpg",
+    "type": "main"
+  }
+]

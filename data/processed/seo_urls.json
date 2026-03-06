@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1299,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "category_id=136",
+    "keyword": "tractors_telehandlers_forklifts"
+  },
+  {
+    "id": 1295,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "category_id=61",
+    "keyword": "agricultural_industrial_construction_plant_hire"
+  },
+  {
+    "id": 978,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "information_id=4",
+    "keyword": "about_us"
+  },
+  {
+    "id": 1141,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "information_id=6",
+    "keyword": "delivery_information"
+  },
+  {
+    "id": 1025,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "information_id=3",
+    "keyword": "privacy_policy"
+  },
+  {
+    "id": 1029,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "information_id=5",
+    "keyword": "terms_and_conditions"
+  },
+  {
+    "id": 1028,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "information_id=7",
+    "keyword": "cookie_policy"
+  },
+  {
+    "id": 1282,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "information_id=8",
+    "keyword": "payment_options"
+  },
+  {
+    "id": 1070,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=11",
+    "keyword": "vapomatic"
+  },
+  {
+    "id": 1071,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=12",
+    "keyword": "bepco"
+  },
+  {
+    "id": 1072,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=13",
+    "keyword": "kramp"
+  },
+  {
+    "id": 1073,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=14",
+    "keyword": "lodi"
+  },
+  {
+    "id": 1074,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=15",
+    "keyword": "harlequin"
+  },
+  {
+    "id": 1075,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=16",
+    "keyword": "kerbl"
+  },
+  {
+    "id": 1076,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=17",
+    "keyword": "iae"
+  },
+  {
+    "id": 1077,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=18",
+    "keyword": "galebreaker"
+  },
+  {
+    "id": 1078,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=19",
+    "keyword": "gwaza"
+  },
+  {
+    "id": 1079,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=20",
+    "keyword": "granit"
+  },
+  {
+    "id": 1080,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=21",
+    "keyword": "browns"
+  },
+  {
+    "id": 1081,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=22",
+    "keyword": "major"
+  },
+  {
+    "id": 1082,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=23",
+    "keyword": "buckler_boots"
+  },
+  {
+    "id": 1083,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=24",
+    "keyword": "lwc"
+  },
+  {
+    "id": 1084,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=25",
+    "keyword": "bateman"
+  },
+  {
+    "id": 1085,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=26",
+    "keyword": "foster"
+  },
+  {
+    "id": 1086,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=27",
+    "keyword": "albutt"
+  },
+  {
+    "id": 1087,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=28",
+    "keyword": "marshall"
+  },
+  {
+    "id": 1088,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=29",
+    "keyword": "jfc"
+  },
+  {
+    "id": 1089,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=30",
+    "keyword": "pottinger"
+  },
+  {
+    "id": 1090,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=31",
+    "keyword": "tafe"
+  },
+  {
+    "id": 1091,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=32",
+    "keyword": "walter_watson"
+  },
+  {
+    "id": 1092,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=33",
+    "keyword": "teagle"
+  },
+  {
+    "id": 1093,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=34",
+    "keyword": "tgb"
+  },
+  {
+    "id": 1094,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=35",
+    "keyword": "oxdale"
+  },
+  {
+    "id": 1095,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=36",
+    "keyword": "247_lighting"
+  },
+  {
+    "id": 1101,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=37",
+    "keyword": "bobcat"
+  },
+  {
+    "id": 1107,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=38",
+    "keyword": "cat"
+  },
+  {
+    "id": 1114,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=39",
+    "keyword": "marston"
+  },
+  {
+    "id": 1116,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=40",
+    "keyword": "john_deere"
+  },
+  {
+    "id": 1121,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "manufacturer_id=41",
+    "keyword": "armstrong_and_holmes"
+  },
+  {
+    "id": 1303,
+    "storeId": 0,
+    "languageId": 1,
+    "query": "product_id=251",
+    "keyword": "armstrong_and_holmes_12t_trailer"
+  }
+]
