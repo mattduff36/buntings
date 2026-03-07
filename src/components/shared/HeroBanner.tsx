@@ -34,7 +34,7 @@ export function HeroBanner({
   }, [isCarousel, advance, intervalMs]);
 
   return (
-    <div style={{ position: 'relative', width: '100%', height, overflow: 'hidden' }}>
+    <div className="hero-banner" style={{ position: 'relative', width: '100%', height, overflow: 'hidden' }}>
       <AnimatePresence initial={false}>
         <motion.img
           key={images[current]}
@@ -66,6 +66,7 @@ export function HeroBanner({
 
       {overlay && (
         <motion.div
+          className="hero-overlay"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2, ease: [0.22, 1, 0.36, 1] }}
@@ -100,6 +101,7 @@ export function HeroBanner({
           {images.map((_, i) => (
             <button
               key={i}
+              className="hero-carousel-dot"
               onClick={() => setCurrent(i)}
               aria-label={`Slide ${i + 1}`}
               style={{

@@ -42,6 +42,7 @@ export function Demo2CategoriesWithPricing({ categories }: Props) {
   function renderCard(cat: Category) {
     return (
       <Card
+        className="card-compact"
         padding="l"
         radius="l"
         border="neutral-alpha-weak"
@@ -50,6 +51,7 @@ export function Demo2CategoriesWithPricing({ categories }: Props) {
           width: '100%',
           height: '100%',
           minHeight: 120,
+          border: '1px solid rgba(255,255,255,0.15)',
           borderLeft: '4px solid var(--brand-strong)',
           transition: 'transform 0.2s ease, box-shadow 0.2s ease',
         }}
@@ -66,6 +68,7 @@ export function Demo2CategoriesWithPricing({ categories }: Props) {
       <AnimatePresence>
         {showPricing && (
           <motion.button
+            className="hide-pricing-btn"
             initial={{ opacity: 0, x: 20 }}
             animate={{ opacity: 1, x: 0 }}
             exit={{ opacity: 0, x: 20 }}
@@ -94,7 +97,7 @@ export function Demo2CategoriesWithPricing({ categories }: Props) {
       </AnimatePresence>
 
       <Row horizontal="between" vertical="center">
-        <Heading as="h2" variant="display-strong-m" style={{ letterSpacing: '0.03em' }}>CATEGORIES</Heading>
+        <Heading as="h2" variant="display-strong-m" className="section-heading" style={{ letterSpacing: '0.03em' }}>CATEGORIES</Heading>
         <Link href="/demo2/categories">
           <Button variant="tertiary" size="s" label="View All" />
         </Link>

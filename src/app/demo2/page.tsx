@@ -25,41 +25,43 @@ export default function Demo2Home() {
         intervalMs={4000}
         overlayOpacity={0.6}
         overlay={
-          <Column gap="m" horizontal="center" style={{ maxWidth: 700 }}>
+          <Column gap="8" horizontal="center" style={{ maxWidth: 700, width: '100%', padding: '0 1rem' }}>
             <Text variant="label-default-s" style={{ color: '#d4a017', letterSpacing: '0.15em', textTransform: 'uppercase' }}>
               Est. 1980 &bull; Nottinghamshire
             </Text>
             <img
               src="/images/logo.png"
               alt="Buntings Agri"
+              className="hero-logo"
               style={{
-                height: 160,
-                width: 'auto',
+                width: '100%',
+                maxWidth: 673,
+                maxHeight: 160,
+                height: 'auto',
+                objectFit: 'contain',
                 filter: 'drop-shadow(0 3px 12px rgba(0,0,0,0.6))',
-                marginTop: '-1em',
-                marginBottom: '-0.5em',
               }}
             />
-            <Text variant="heading-default-l" style={{ color: '#d4a017' }}>
+            <Text variant="body-strong-s" className="hero-subtitle" style={{ color: '#d4a017', textAlign: 'center' }}>
               New &amp; Used Agricultural Equipment &bull; Parts &bull; Expert Advice
             </Text>
           </Column>
         }
       />
 
-      <Column maxWidth="xl" style={{ margin: '0 auto', width: '100%' }} padding="l" gap="xl">
+      <Column maxWidth="xl" className="demo2-main-content" style={{ margin: '0 auto', width: '100%' }} padding="l" gap="xl">
         {/* Categories + Pricing toggle */}
         <Demo2CategoriesWithPricing categories={topCategories} />
 
         {/* Products */}
         <Column gap="l">
           <Row horizontal="between" vertical="center">
-            <Heading as="h2" variant="display-strong-m" style={{ letterSpacing: '0.03em' }}>POPULAR</Heading>
+            <Heading as="h2" variant="display-strong-m" className="section-heading" style={{ letterSpacing: '0.03em' }}>POPULAR</Heading>
             <Link href="/demo2/categories">
               <Button variant="secondary" size="s" label="View All" />
             </Link>
           </Row>
-          <Grid style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 260px), 1fr))' }} gap="l">
+          <Grid className="demo2-product-grid" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 260px), 1fr))' }} gap="l">
             {featured.map((p: any) => (
               <ProductCard key={p.id} product={p} />
             ))}

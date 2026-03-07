@@ -73,7 +73,7 @@ export function ProductCard({ product, basePath = '/demo2' }: ProductCardProps) 
             </div>
           )}
         </div>
-        <div style={{ padding: 'var(--spacing-m, 14px)' }}>
+        <div className="product-card-content" style={{ padding: 'var(--spacing-m, 14px)' }}>
           <Column gap="s">
             <Heading as="h3" variant="heading-strong-s" style={{
               display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden',

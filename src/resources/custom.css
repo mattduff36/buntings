@@ -50,7 +50,7 @@ a {
 
 /* Ensure touch targets are at least 44px */
 @media (max-width: 768px) {
-  button,
+  button:not(.hero-carousel-dot),
   [role="button"],
   a {
     min-height: 44px;
@@ -64,7 +64,7 @@ a {
 
   /* Reduce hero height on mobile */
   .hero-banner {
-    max-height: 320px;
+    height: 200px !important;
   }
 }
 
@@ -122,11 +122,50 @@ img, video, canvas {
   }
 
   .demo2-cat-grid {
-    grid-template-columns: 1fr !important;
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 8px !important;
+  }
+
+  /* Compact category cards on mobile */
+  .demo2-cat-grid .card-compact {
+    min-height: 0 !important;
+    padding: 12px !important;
+  }
+
+  .demo2-cat-grid .card-compact h3 {
+    font-size: 0.8rem !important;
+    line-height: 1.25 !important;
   }
 
   .product-detail-grid {
     grid-template-columns: 1fr;
+  }
+
+  /* 2-column product grid on mobile */
+  .demo2-product-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 8px !important;
+  }
+
+  /* Compact product cards on mobile */
+  .demo2-product-grid .product-card-content {
+    padding: 8px !important;
+  }
+
+  .demo2-product-grid .product-card-content h3 {
+    font-size: 0.75rem !important;
+    line-height: 1.2 !important;
+    -webkit-line-clamp: 2 !important;
+  }
+
+  .demo2-product-grid .product-card-content p,
+  .demo2-product-grid .product-card-content span {
+    font-size: 0.75rem !important;
+  }
+
+  /* Smaller section headings on mobile */
+  .section-heading {
+    font-size: 1.25rem !important;
   }
 
   /* Reduce hero text sizes on mobile */
@@ -134,17 +173,53 @@ img, video, canvas {
     font-size: 1.75rem !important;
   }
 
-  /* Stack footer CTA buttons */
-  .footer-cta-row {
-    flex-direction: column;
-    align-items: stretch;
-    width: 100%;
+  /* Scale hero logo on small screens */
+  .hero-logo {
+    max-width: 260px !important;
+    max-height: 80px !important;
   }
 
-  .footer-cta-row a,
-  .footer-cta-row button {
-    width: 100%;
+  .hero-subtitle {
+    font-size: 0.7rem !important;
   }
+
+  /* Tighten hero overlay padding on mobile */
+  .hero-overlay {
+    padding: 1rem !important;
+  }
+
+  /* Smaller 'Hide Price Lists' button on mobile */
+  .hide-pricing-btn {
+    top: 80px !important;
+    right: 12px !important;
+    padding: 6px 10px !important;
+    font-size: 11px !important;
+    border-radius: 6px !important;
+    min-height: 0 !important;
+    min-width: 0 !important;
+  }
+
+  /* Tighter page padding on mobile */
+  .demo2-main-content {
+    padding: 12px !important;
+    gap: 20px !important;
+  }
+
+  /* 2-column footer grid on mobile */
+  .footer-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+    gap: 1rem 0.75rem !important;
+  }
+
+  .footer-grid > div {
+    gap: 0.4rem !important;
+  }
+
+
+  .footer-body {
+    padding: 16px 12px !important;
+  }
+
 
   /* Stack header contact info on mobile */
   .header-top-contact {

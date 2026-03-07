@@ -15,46 +15,9 @@ export function Footer() {
 
   return (
     <Column as="footer" background="surface" borderTop="neutral-alpha-weak" padding="0" gap="0">
-      {/* CTA strip */}
-      <div style={{
-        background: 'var(--brand-strong)',
-        padding: '20px 24px',
-      }}>
-        <div style={{
-          maxWidth: 'var(--responsive-xl, 1200px)',
-          margin: '0 auto',
-          display: 'flex',
-          justifyContent: 'space-between',
-          alignItems: 'center',
-          flexWrap: 'wrap',
-          gap: 16,
-        }}>
-          <div>
-            <div style={{ color: 'var(--static-white, #fff)', fontSize: 16, fontWeight: 700 }}>
-              Need help choosing the right equipment?
-            </div>
-            <div style={{ color: 'var(--static-white, rgba(255,255,255,0.8))', fontSize: 13 }}>
-              Our friendly team has 40+ years of experience and are happy to advise.
-            </div>
-          </div>
-          <div className="footer-cta-row" style={{ display: 'flex', gap: 10 }}>
-            <Link href={`${basePath}/contact`}>
-              <Button variant="secondary" size="m" label="Send Enquiry"
-                style={{ background: 'rgba(255,255,255,0.15)', color: 'white', borderColor: 'rgba(255,255,255,0.3)' }}
-              />
-            </Link>
-            <a href={`tel:${footer.phone?.replace(/\s/g, '')}`} style={{ textDecoration: 'none' }}>
-              <Button variant="secondary" size="m" label={footer.phone}
-                style={{ background: 'rgba(255,255,255,0.15)', color: 'white', borderColor: 'rgba(255,255,255,0.3)' }}
-              />
-            </a>
-          </div>
-        </div>
-      </div>
-
       {/* Main footer */}
-      <div style={{ padding: 'var(--spacing-l, 32px) var(--spacing-l, 24px)' }}>
-        <div style={{
+      <div className="footer-body" style={{ padding: 'var(--spacing-l, 32px) var(--spacing-l, 24px)' }}>
+        <div className="footer-grid" style={{
           maxWidth: 'var(--responsive-xl, 1200px)',
           margin: '0 auto',
           width: '100%',
