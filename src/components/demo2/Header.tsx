@@ -18,7 +18,7 @@ export function Header() {
   const footer = (contentExtras as any).footerInfo;
 
   const navLinks = [
-    { label: 'EQUIPMENT', href: `${basePath}/categories` },
+    { label: 'BROWSE ALL CATEGORIES', href: `${basePath}/categories` },
     ...topCategories.slice(0, 2).map((cat: any) => ({
       label: cat.name.toUpperCase().trim(),
       href: `${basePath}/category/${cat.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}-${cat.id}`,

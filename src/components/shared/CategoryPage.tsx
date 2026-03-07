@@ -91,7 +91,7 @@ export function CategoryPage({ slug, basePath, ProductCard }: { slug: string; ba
       )}
 
       {categoryProducts.length > 0 ? (
-        <Grid gap="m" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(240px, 1fr))' }}>
+        <Grid gap="m" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 240px), 1fr))' }}>
           {categoryProducts.map((p: any) => (
             <ProductCard key={p.id} product={p} />
           ))}

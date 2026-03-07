@@ -59,7 +59,7 @@ export default function Demo1Home() {
             <Text variant="body-default-l" style={{ color: 'rgba(255,255,255,0.9)', maxWidth: 520 }}>
               Trusted suppliers of new and used machinery, fencing, parts and expert advice from {(siteMeta as any).storeName}
             </Text>
-            <Row gap="m" horizontal="center" style={{ paddingTop: 8 }}>
+            <div className="hero-buttons" style={{ display: 'flex', gap: 12, justifyContent: 'center', paddingTop: 8 }}>
               <Link href="/demo1/categories">
                 <Button variant="primary" size="l" label="Browse Equipment" />
               </Link>
@@ -71,7 +71,7 @@ export default function Demo1Home() {
                   style={{ background: 'rgba(255,255,255,0.15)', backdropFilter: 'blur(8px)', border: '1px solid rgba(255,255,255,0.3)' }}
                 />
               </Link>
-            </Row>
+            </div>
           </Column>
         }
       />
@@ -81,14 +81,14 @@ export default function Demo1Home() {
         background: '#1a3d1a',
         padding: '16px 24px',
       }}>
-        <div style={{
+        <div className="trust-bar-grid" style={{
           maxWidth: 'var(--responsive-xl, 1200px)',
           margin: '0 auto',
-          display: 'flex',
+          display: 'grid',
+          gridTemplateColumns: 'repeat(4, auto)',
           justifyContent: 'center',
           alignItems: 'center',
-          gap: 32,
-          flexWrap: 'wrap',
+          gap: '16px 32px',
         }}>
           {[
             { label: '40+ Years', sub: 'Established 1980' },
@@ -113,7 +113,7 @@ export default function Demo1Home() {
               Explore our full catalogue of agricultural equipment and supplies
             </Text>
           </Column>
-          <Grid gap="m" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))' }}>
+          <Grid gap="m" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 300px), 1fr))' }}>
             {topCategories.map((cat: any) => (
               <Link
                 key={cat.id}
@@ -210,7 +210,7 @@ export default function Demo1Home() {
                 <Button variant="secondary" size="s" label="View All" />
               </Link>
             </Row>
-            <Grid gap="m" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(240px, 1fr))' }}>
+            <Grid gap="m" style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 240px), 1fr))' }}>
               {featured.map((p: any) => (
                 <ProductCard key={p.id} product={p} />
               ))}
@@ -232,7 +232,7 @@ export default function Demo1Home() {
             <Text variant="body-default-m" style={{ color: 'rgba(255,255,255,0.8)' }}>
               Our friendly team has over 40 years of experience. Get in touch for help choosing the right equipment.
             </Text>
-            <Row gap="m" horizontal="center">
+            <div className="hero-buttons" style={{ display: 'flex', gap: 12, justifyContent: 'center' }}>
               <Link href="/demo1/contact">
                 <Button variant="primary" size="l" label="Send Enquiry" />
               </Link>
@@ -241,7 +241,7 @@ export default function Demo1Home() {
                   style={{ color: 'white', borderColor: 'rgba(255,255,255,0.3)' }}
                 />
               </a>
-            </Row>
+            </div>
           </Column>
         </div>
       </Column>

@@ -43,7 +43,7 @@ export function Header() {
               <Phone size={12} color="#d4a55a" />
               <Text variant="body-default-xs" style={{ color: '#e8d5b8' }}>{phone}</Text>
             </a>
-            <a href={`mailto:${(siteMeta as any).email}`} style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 4 }}>
+            <a href={`mailto:${(siteMeta as any).email}`} className="header-top-contact" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 4 }}>
               <Mail size={12} color="#d4a55a" />
               <Text variant="body-default-xs" style={{ color: '#e8d5b8' }}>{(siteMeta as any).email}</Text>
             </a>

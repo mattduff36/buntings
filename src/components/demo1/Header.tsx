@@ -42,7 +42,7 @@ export function Header() {
               <Phone size={12} color="#8bc48b" />
               <Text variant="body-default-xs" style={{ color: '#c8e6c8' }}>{footer.phone}</Text>
             </a>
-            <a href={`mailto:${footer.email}`} style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 4 }}>
+            <a href={`mailto:${footer.email}`} className="header-top-contact" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: 4 }}>
               <Mail size={12} color="#8bc48b" />
               <Text variant="body-default-xs" style={{ color: '#c8e6c8' }}>{footer.email}</Text>
             </a>

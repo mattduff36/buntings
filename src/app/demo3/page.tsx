@@ -47,7 +47,7 @@ export default function Demo3Home() {
             <Text variant="body-default-m" style={{ color: 'rgba(255,255,255,0.9)' }}>
               Trusted by farmers across Nottinghamshire &amp; Derbyshire since 1980
             </Text>
-            <Row gap="m" horizontal="center" style={{ paddingTop: 8 }}>
+            <div className="hero-buttons" style={{ display: 'flex', gap: 12, justifyContent: 'center', paddingTop: 8 }}>
               <Link href="/demo3/categories">
                 <Button variant="primary" size="l" label="Explore Catalogue" />
               </Link>
@@ -63,7 +63,7 @@ export default function Demo3Home() {
                   }}
                 />
               </Link>
-            </Row>
+            </div>
           </Column>
         }
       />
@@ -73,7 +73,7 @@ export default function Demo3Home() {
         background: '#5c3d1e',
         overflow: 'hidden',
       }}>
-        <div style={{
+        <div className="story-strip" style={{
           maxWidth: 'var(--responsive-xl, 1200px)',
           margin: '0 auto',
           display: 'grid',
@@ -112,7 +112,7 @@ export default function Demo3Home() {
           </Column>
           <div style={{
             display: 'grid',
-            gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))',
+            gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 300px), 1fr))',
             gap: 16,
           }}>
             {topCategories.map((cat: any, i: number) => {
@@ -210,7 +210,7 @@ export default function Demo3Home() {
               <Button variant="secondary" size="s" label="Full Catalogue" />
             </Link>
           </Row>
-          <Grid style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))' }} gap="s">
+          <Grid style={{ gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 200px), 1fr))' }} gap="s">
             {featured.map((p: any) => (
               <ProductCard key={p.id} product={p} />
             ))}
@@ -249,7 +249,7 @@ export default function Demo3Home() {
               <Text variant="body-default-m" style={{ color: 'rgba(255,255,255,0.85)' }}>
                 Our experienced team can help with equipment selection, pricing, and delivery.
               </Text>
-              <Row gap="m" horizontal="center">
+              <div className="hero-buttons" style={{ display: 'flex', gap: 12, justifyContent: 'center' }}>
                 <Link href="/demo3/contact">
                   <Button variant="primary" size="l" label="Send Enquiry" />
                 </Link>
@@ -258,7 +258,7 @@ export default function Demo3Home() {
                     style={{ color: 'white', borderColor: 'rgba(255,255,255,0.3)' }}
                   />
                 </a>
-              </Row>
+              </div>
             </Column>
           </div>
         </div>

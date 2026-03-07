@@ -49,11 +49,7 @@ export function ProductPage({ slug, basePath }: { slug: string; basePath: string
         </Row>
       </Link>
 
-      <div style={{
-        display: 'grid',
-        gridTemplateColumns: 'repeat(auto-fit, minmax(320px, 1fr))',
-        gap: 'var(--spacing-l, 1.5rem)',
-      }}>
+      <div className="product-detail-grid">
         {/* Image gallery */}
         <Column gap="m">
           <div style={{
@@ -154,30 +150,25 @@ export function ProductPage({ slug, basePath }: { slug: string; basePath: string
           )}
 
           {/* CTAs */}
-          <div style={{
-            display: 'flex',
-            flexDirection: 'column',
-            gap: 10,
-            padding: '16px 0',
-          }}>
-            <Row gap="m">
-              <a href={`mailto:${email}?subject=${enquirySubject}&body=${enquiryBody}`} style={{ flex: 1 }}>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: 10, padding: '16px 0' }}>
+            <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
+              <a href={`mailto:${email}?subject=${enquirySubject}&body=${enquiryBody}`} style={{ flex: '1 1 140px' }}>
                 <Button variant="primary" size="l" label="Send Enquiry" style={{ width: '100%' }} />
               </a>
-              <a href={`tel:${footer.phone?.replace(/\s/g, '')}`} style={{ flex: 1 }}>
+              <a href={`tel:${footer.phone?.replace(/\s/g, '')}`} style={{ flex: '1 1 140px' }}>
                 <Button variant="secondary" size="l" label="Call Us" style={{ width: '100%' }} />
               </a>
-            </Row>
-            <Row gap="m" style={{ fontSize: 13, color: 'var(--neutral-on-background-weak, #888)' }}>
-              <Row gap="xs" vertical="center">
+            </div>
+            <div style={{ display: 'flex', gap: 16, flexWrap: 'wrap', fontSize: 13, color: 'var(--neutral-on-background-weak, #888)' }}>
+              <span style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
                 <Phone size={13} />
-                <span>{footer.phone}</span>
-              </Row>
-              <Row gap="xs" vertical="center">
+                {footer.phone}
+              </span>
+              <span style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
                 <Mail size={13} />
-                <span>{footer.email}</span>
-              </Row>
-            </Row>
+                {footer.email}
+              </span>
+            </div>
           </div>
 
           {product.descriptionHtml && (

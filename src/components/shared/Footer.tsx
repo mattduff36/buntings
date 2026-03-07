@@ -37,7 +37,7 @@ export function Footer() {
               Our friendly team has 40+ years of experience and are happy to advise.
             </div>
           </div>
-          <div style={{ display: 'flex', gap: 10 }}>
+          <div className="footer-cta-row" style={{ display: 'flex', gap: 10 }}>
             <Link href={`${basePath}/contact`}>
               <Button variant="secondary" size="m" label="Send Enquiry"
                 style={{ background: 'rgba(255,255,255,0.15)', color: 'white', borderColor: 'rgba(255,255,255,0.3)' }}
@@ -59,7 +59,7 @@ export function Footer() {
           margin: '0 auto',
           width: '100%',
           display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fit, minmax(180px, 1fr))',
+          gridTemplateColumns: 'repeat(auto-fit, minmax(min(100%, 180px), 1fr))',
           gap: '2rem',
         }}>
           <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>

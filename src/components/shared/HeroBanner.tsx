@@ -9,6 +9,7 @@ interface HeroBannerProps {
   height?: string;
   overlay?: React.ReactNode;
   intervalMs?: number;
+  overlayOpacity?: number;
 }
 
 export function HeroBanner({
@@ -17,6 +18,7 @@ export function HeroBanner({
   height = '480px',
   overlay,
   intervalMs = 5000,
+  overlayOpacity,
 }: HeroBannerProps) {
   const [current, setCurrent] = useState(0);
   const isCarousel = images.length > 1;
@@ -56,7 +58,9 @@ export function HeroBanner({
         style={{
           position: 'absolute',
           inset: 0,
-          background: 'linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.35) 50%, rgba(0,0,0,0.6) 100%)',
+          background: overlayOpacity != null
+            ? `rgba(0,0,0,${overlayOpacity})`
+            : 'linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.35) 50%, rgba(0,0,0,0.6) 100%)',
         }}
       />
 

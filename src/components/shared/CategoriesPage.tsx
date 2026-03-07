@@ -49,7 +49,7 @@ function CategoryItem({ cat, depth = 0, basePath }: { cat: any; depth?: number; 
         </Card>
       </Link>
       {cat.children && cat.children.length > 0 && (
-        <Grid gap="s" style={{ paddingLeft: isTopLevel ? 20 : 16, gridTemplateColumns: 'repeat(auto-fill, minmax(220px, 1fr))' }}>
+        <Grid gap="s" style={{ paddingLeft: isTopLevel ? 20 : 16, gridTemplateColumns: 'repeat(auto-fill, minmax(min(100%, 220px), 1fr))' }}>
           {cat.children.map((child: any) => (
             <CategoryItem key={child.id} cat={child} depth={depth + 1} basePath={basePath} />
           ))}
@@ -60,7 +60,24 @@ function CategoryItem({ cat, depth = 0, basePath }: { cat: any; depth?: number; 
 }
 
 export function CategoriesPage({ basePath }: { basePath: string }) {
-  const tree = categoriesTree as any[];
+  const preferredOrder = [205, 142, 188];
+
+  const tree = (categoriesTree as any[])
+    .map((cat: any) => ({
+      ...cat,
+      children: cat.children
+        ?.filter((ch: any) => ch.name && ch.name.trim().length > 0)
+        .sort((a: any, b: any) => (a.name || '').localeCompare(b.name || '')),
+    }))
+    .sort((a: any, b: any) => {
+      const ai = preferredOrder.indexOf(a.id);
+      const bi = preferredOrder.indexOf(b.id);
+      if (ai !== -1 && bi !== -1) return ai - bi;
+      if (ai !== -1) return -1;
+      if (bi !== -1) return 1;
+      return (a.name || '').localeCompare(b.name || '');
+    });
+
   const totalSubcategories = tree.reduce((sum: number, cat: any) => sum + (cat.children?.length || 0), 0);
 
   return (

@@ -101,9 +101,82 @@ img, video, canvas {
   font-variant-numeric: tabular-nums;
 }
 
-/* Mobile story strip stacking */
+/* Demo 2 home: responsive category grid overrides */
+@media (max-width: 960px) {
+  .demo2-cat-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+
+/* Product page: responsive two-column layout */
+.product-detail-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-l, 1.5rem);
+}
+
+/* Mobile story strip stacking + other mobile overrides */
 @media (max-width: 640px) {
   .story-strip {
     grid-template-columns: 1fr !important;
   }
+
+  .demo2-cat-grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .product-detail-grid {
+    grid-template-columns: 1fr;
+  }
+
+  /* Reduce hero text sizes on mobile */
+  .hero-title-xl {
+    font-size: 1.75rem !important;
+  }
+
+  /* Stack footer CTA buttons */
+  .footer-cta-row {
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+  }
+
+  .footer-cta-row a,
+  .footer-cta-row button {
+    width: 100%;
+  }
+
+  /* Stack header contact info on mobile */
+  .header-top-contact {
+    display: none !important;
+  }
+
+  /* Trust bar: 2x2 grid on mobile */
+  .trust-bar-grid {
+    grid-template-columns: repeat(2, auto) !important;
+  }
+
+  /* Ensure hero buttons don't overflow */
+  .hero-buttons {
+    flex-direction: column;
+    align-items: stretch;
+    width: 100%;
+    max-width: 280px;
+  }
+}
+
+/* Fixed animated background layer */
+.site-background {
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.site-content {
+  position: relative;
+  z-index: 1;
 }
